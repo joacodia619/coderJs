@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact Form</title>
+  <script src="../js/form.js" async></script>
+  <link rel="stylesheet" href="../css/formStyle.css">
+</head>
+
+<body>
+  <input class="menu-icon" type="checkbox" id="menu-icon" name="menu-icon" />
+  <label for="menu-icon"></label>
+  <nav class="nav">
+    <ul class="pt-5">
+      <li><a href="../index.html">Menu</a></li>
+      <li><a href="./public/grupos.html">Groups</a></li>
+      <li><a href="./public/calendar.html">Calendar</a></li>
+      <li><a href="#">Álbum de Estrellas</a></li>
+      <li><a href="#">About Qatar</a></li>
+    </ul>
+  </nav>
+  <div class="container">
+    <div class="header">
+      <h2>Log in</h2>
+    </div>
+    <form id="form" class="form">
+      <div class="form-control">
+        <label for="username">Username</label>
+        <input type="text" placeholder="joaquind619" id="username" />
+        <i class="fas fa-check-circle"></i>
+        <i class="fas fa-exclamation-circle"></i>
+        <small>Error message</small>
+      </div>
+      <div class="form-control">
+        <label for="username">Email</label>
+        <input type="email" placeholder="a@joaquin-diaz.com" id="email" />
+        <i class="fas fa-check-circle"></i>
+        <i class="fas fa-exclamation-circle"></i>
+        <small>Error message</small>
+      </div>
+      <div class="form-control">
+        <label for="username">Password</label>
+        <input type="password" placeholder="Password" id="password" />
+        <i class="fas fa-check-circle"></i>
+        <i class="fas fa-exclamation-circle"></i>
+        <small>Error message</small>
+      </div>
+      <div class="form-control">
+        <label for="username">Password check</label>
+        <input type="password" placeholder="Password repeated" id="password2" />
+        <i class="fas fa-check-circle"></i>
+        <i class="fas fa-exclamation-circle"></i>
+        <small>Error message</small>
+      </div>
+      <button>Submit</button>
+    </form>
+  </div>
+</body>
+
+</html>
