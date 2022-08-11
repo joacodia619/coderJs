@@ -1,4 +1,4 @@
-SuarezEnNacional = [];
+seleccionesDelMundial = [];
 class seleccion {
   constructor(grupo, pais, imagen) {
     this.grupo = grupo;
@@ -6,62 +6,56 @@ class seleccion {
     this.imagen = imagen;
   }
 }
-SuarezEnNacional.push(new seleccion("Grupo A", "Catar", '../images/Catar.gif'));
-SuarezEnNacional.push(new seleccion("Grupo A", "Ecuador", '../images/Ecuador.jpg'));
-SuarezEnNacional.push(new seleccion("Grupo A", "Senegal", '../images/Senegal.png'));
-SuarezEnNacional.push(new seleccion("Grupo A", "Países Bajos", '../images/PaisesBajos.png'));
-SuarezEnNacional.push(new seleccion("Grupo B", "Inglaterra", '../images/Inglaterra.jpg'));
-SuarezEnNacional.push(new seleccion("Grupo B", "Irán", '../images/Iran.png'));
-SuarezEnNacional.push(new seleccion("Grupo B", "Estados Unidos", '../images/EstadosUnidos.jpg'));
-SuarezEnNacional.push(new seleccion("Grupo B", "Gales", '../images/Gales.png'));
-SuarezEnNacional.push(new seleccion("Grupo C", "Argentina", '../images/Argentina.jpg'));
-SuarezEnNacional.push(new seleccion("Grupo C", "Arabia Saudita", '../images/ArabiaSaudita.png'));
-SuarezEnNacional.push(new seleccion("Grupo C", "México", '../images/Mexico.jpg'));
-SuarezEnNacional.push(new seleccion("Grupo C", "Polonia", '../images/Polonia.png'));
-SuarezEnNacional.push(new seleccion("Grupo D", "Francia", '../images/Francia.jpg'));
-SuarezEnNacional.push(new seleccion("Grupo D", "Australia", '../images/Australia.jpg'));
-SuarezEnNacional.push(new seleccion("Grupo D", "Dinamarca", '../images/Dinamarca.png'));
-SuarezEnNacional.push(new seleccion("Grupo D", "Túnez", '../images/Tunez.png'));
-SuarezEnNacional.push(new seleccion("Grupo E", "España", '../images/España.jpg'));
-SuarezEnNacional.push(new seleccion("Grupo E", "Costa Rica", '../images/CostaRica.jpg'));
-SuarezEnNacional.push(new seleccion("Grupo E", "Alemania", '../images/Alemania.jpg'));
-SuarezEnNacional.push(new seleccion("Grupo E", "Japón", '../images/Japon.png'));
-SuarezEnNacional.push(new seleccion("Grupo F", "Bélgica", '../images/Belgica.png'));
-SuarezEnNacional.push(new seleccion("Grupo F", "Canadá", '../images/Canada.png'));
-SuarezEnNacional.push(new seleccion("Grupo F", "Marruecos", '../images/Marruecos.png'));
-SuarezEnNacional.push(new seleccion("Grupo F", "Croacia", '../images/Croacia.png'));
-SuarezEnNacional.push(new seleccion("Grupo G", "Brasil", '../images/Brasil.png'));
-SuarezEnNacional.push(new seleccion("Grupo G", "Serbia", '../images/Serbia.png'));
-SuarezEnNacional.push(new seleccion("Grupo G", "Suiza", '../images/Suiza.png'));
-SuarezEnNacional.push(new seleccion("Grupo G", "Camerún", '../images/Camerun.png'));
-SuarezEnNacional.push(new seleccion("Grupo H", "Portugal", '../images/Portugal.png'));
-SuarezEnNacional.push(new seleccion("Grupo H", "Ghana", '../images/Ghana.png'));
-SuarezEnNacional.push(new seleccion("Grupo H", "Uruguay", '../images/Uruguay.jpg'));
-SuarezEnNacional.push(new seleccion("Grupo H", "Corea del Sur", '../images/CoreaDelSur.jpg'));
-function mostrarSelecciones() {
-  let selecciones = [];
-  for (const paises of SuarezEnNacional) {
-    selecciones.push(paises.pais);
-  }
-  alert(selecciones.join(" - "));
-}
-function grupoYEnfrentamientos() {
-  let seleccionElegida = prompt('Te mostramos el grupo de la selección que elijas(de las mostradas anteriormente) de la FIFA World Cup Qatar 2022, si no desea seguir buscando entonces escriba (0)');
-  let grupos = SuarezEnNacional.filter(x => x.grupo == SuarezEnNacional.find(x2 => x2.pais == seleccionElegida).grupo)
-  console.log(grupos)
-  alert('Estas son las banderas de los equipos que están en el grupo de la selección que elegiste =)')
-  plantillaYaSabeNacionalNacional(grupos)
+seleccionesDelMundial.push(new seleccion("Grupo A", "Catar", '../img/qatar.png'));
+seleccionesDelMundial.push(new seleccion("Grupo A", "Ecuador", '../img/ecuador.png'));
+seleccionesDelMundial.push(new seleccion("Grupo A", "Senegal", '../img/senegal.png'));
+seleccionesDelMundial.push(new seleccion("Grupo A", "Países Bajos", '../img/holanda.png'));
+seleccionesDelMundial.push(new seleccion("Grupo B", "Inglaterra", '../img/inglaterra.png'));
+seleccionesDelMundial.push(new seleccion("Grupo B", "Irán", '../img/iran.png'));
+seleccionesDelMundial.push(new seleccion("Grupo B", "Estados Unidos", '../img/estadosUnidos.png'));
+seleccionesDelMundial.push(new seleccion("Grupo B", "Gales", '../img/gales.png'));
+seleccionesDelMundial.push(new seleccion("Grupo C", "Argentina", '../img/argentina.png'));
+seleccionesDelMundial.push(new seleccion("Grupo C", "Arabia Saudita", '../img/arabia.png'));
+seleccionesDelMundial.push(new seleccion("Grupo C", "México", '../img/mexico.png'));
+seleccionesDelMundial.push(new seleccion("Grupo C", "Polonia", '../img/polonia.png'));
+seleccionesDelMundial.push(new seleccion("Grupo D", "Francia", '../img/francia.jpg'));
+seleccionesDelMundial.push(new seleccion("Grupo D", "Australia", '../img/australia.png'));
+seleccionesDelMundial.push(new seleccion("Grupo D", "Dinamarca", '../img/dinamarca.png'));
+seleccionesDelMundial.push(new seleccion("Grupo D", "Túnez", '../img/tune.png'));
+seleccionesDelMundial.push(new seleccion("Grupo E", "España", '../img/españa.png'));
+seleccionesDelMundial.push(new seleccion("Grupo E", "Costa Rica", '../img/costa.png'));
+seleccionesDelMundial.push(new seleccion("Grupo E", "Alemania", '../img/alemania.png'));
+seleccionesDelMundial.push(new seleccion("Grupo E", "Japón", '../img/japon.png'));
+seleccionesDelMundial.push(new seleccion("Grupo F", "Bélgica", '../img/belgica.png'));
+seleccionesDelMundial.push(new seleccion("Grupo F", "Canadá", '../img/canada.png'));
+seleccionesDelMundial.push(new seleccion("Grupo F", "Marruecos", '../img/morocco.png'));
+seleccionesDelMundial.push(new seleccion("Grupo F", "Croacia", '../img/croacia.png'));
+seleccionesDelMundial.push(new seleccion("Grupo G", "Brasil", '../img/BRAS.png'));
+seleccionesDelMundial.push(new seleccion("Grupo G", "Serbia", '../img/serbia.png'));
+seleccionesDelMundial.push(new seleccion("Grupo G", "Suiza", '../img/suiza.png'));
+seleccionesDelMundial.push(new seleccion("Grupo G", "Camerún", '../img/camerun.png'));
+seleccionesDelMundial.push(new seleccion("Grupo H", "Portugal", '../img/portugal.png'));
+seleccionesDelMundial.push(new seleccion("Grupo H", "Ghana", '../img/ghana.png'));
+seleccionesDelMundial.push(new seleccion("Grupo H", "Uruguay", '../img/uruguay.png'));
+seleccionesDelMundial.push(new seleccion("Grupo H", "Corea del Sur", '../img/corea.png'));
 
-}
-function plantillaYaSabeNacionalNacional(grupos) {
-  let paraUsarEnPlantilla = document.getElementById("paraUsarEnPlantilla")
-  let noMeLaContainer = `
-    <img src="${grupos[0].imagen} " /> 
-    <img src="${grupos[1].imagen} " />
-    <img src="${grupos[2].imagen} " />
-    <img src="${grupos[3].imagen} " />`
-  console.log(noMeLaContainer)
-  paraUsarEnPlantilla.innerHTML = noMeLaContainer
-}
-mostrarSelecciones()
-grupoYEnfrentamientos()
+// function grupoYEnfrentamientos() {
+//   let seleccionElegida = prompt('Te mostramos el grupo de la selección que elijas(de las mostradas anteriormente) de la FIFA World Cup Qatar 2022, si no desea seguir buscando entonces escriba (0)');
+//   let grupos = seleccionesDelMundial.filter(x => x.grupo == seleccionesDelMundial.find(x2 => x2.pais == seleccionElegida).grupo)
+//   console.log(grupos)
+//   alert('Estas son las banderas de los equipos que están en el grupo de la selección que elegiste =)')
+//   plantillaYaSabeNacionalNacional(grupos)
+
+// }
+// function plantillaYaSabeNacionalNacional(grupos) {
+//   let paraUsarEnPlantilla = document.getElementById("paraUsarEnPlantilla")
+//   let noMeLaContainer = `
+//     <img src="${grupos[0].imagen} " />
+//     <img src="${grupos[1].imagen} " />
+//     <img src="${grupos[2].imagen} " />
+//     <img src="${grupos[3].imagen} " />`
+//   console.log(noMeLaContainer)
+//   paraUsarEnPlantilla.innerHTML = noMeLaContainer
+// }
+// mostrarSelecciones()
+// grupoYEnfrentamientos()

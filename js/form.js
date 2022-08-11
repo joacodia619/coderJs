@@ -43,6 +43,12 @@ function checkInputs() {
   } else {
     setSuccessFor(password2);
   }
+  const enJSON1 = JSON.stringify(usernameValue)
+  const enJSON2 = JSON.stringify(emailValue)
+  const enJSON3 = JSON.stringify(passwordValue)
+  sessionStorage.setItem("Nombre de usuario", enJSON1)
+  sessionStorage.setItem("Mail", enJSON2)
+  sessionStorage.setItem("Contraseña", enJSON3)
 }
 
 function setErrorFor(input, message) {
