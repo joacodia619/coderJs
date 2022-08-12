@@ -8,6 +8,10 @@ form.addEventListener('submit', e => {
   e.preventDefault();
 
   checkInputs();
+  const arraySuccess = document.getElementsByClassName('success')
+  if (arraySuccess.length == 4) {
+    location.href = "../index.html"
+  }
 });
 
 function checkInputs() {
