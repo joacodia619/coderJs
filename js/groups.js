@@ -38,7 +38,7 @@ seleccionesDelMundial.push(new seleccion("Grupo G", "Suiza", '../img/suiza.png',
 seleccionesDelMundial.push(new seleccion("Grupo G", "Camerún", '../img/camerun.png', 0, 'Samuel Eto'));
 seleccionesDelMundial.push(new seleccion("Grupo H", "Portugal", '../img/portugal.png', 0, 'Cristiano Ronaldo'));
 seleccionesDelMundial.push(new seleccion("Grupo H", "Ghana", '../img/ghana.png', 0, 'Abedi Pele'));
-seleccionesDelMundial.push(new seleccion("Grupo H", "Uruguay", '../img/uruguay.png', 0, 'Luis Suarez'));
+seleccionesDelMundial.push(new seleccion("Grupo H", "Uruguay", '../img/uruguay.png', 4, 'Luis Suarez'));
 seleccionesDelMundial.push(new seleccion("Grupo H", "Corea del Sur", '../img/corea.png', 0, 'Son Heung-Min'));
 
 
