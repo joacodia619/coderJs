@@ -20,11 +20,12 @@ function checkInputs() {
   const passwordValue = password.value.trim();
   const password2Value = password2.value.trim();
 
-  if (usernameValue === '') {
+  /*if (usernameValue === '') {
     setErrorFor(username, 'Username is required.');
   } else {
     setSuccessFor(username);
-  }
+  }*/
+  usernameValue === '' ? setErrorFor(username, 'Username is required.') : setSuccessFor(username)
 
   if (emailValue === '') {
     setErrorFor(email, 'Email is required.');
@@ -33,12 +34,12 @@ function checkInputs() {
   } else {
     setSuccessFor(email);
   }
-
-  if (passwordValue === '') {
+  passwordValue === '' ? setErrorFor(password, 'Password is required.') : setSuccessFor(password)
+  /* if (passwordValue === '') {
     setErrorFor(password, 'Password is required.');
   } else {
     setSuccessFor(password);
-  }
+  }*/
 
   if (password2Value === '') {
     setErrorFor(password2, 'Password2 is required.');

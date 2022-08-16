@@ -1,0 +1,256 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+:root {
+  --roboto-font: 'Roboto', sans-serif;
+  --noto-sans-jp-font: 'Noto Sans JP', sans-serif;
+  --poppins-font: 'Poppins', sans-serif;
+  ;
+
+  --h1-font-size: clamp(20px, 10vw, 100px);
+  --h2-font-size: clamp(18px, 4vw, 40px);
+  --fact-font-size: 18px;
+  --small-font-size: clamp(14px, 2vw, 18px);
+  --medium-font-size: clamp(18px, 3vw, 24px);
+  --number-font-size: clamp(18px, 8vw, 80px);
+
+  --blue-color: #1b84c9;
+  --yellow-color: #f3b13f;
+  --black-color: #1f1f1f;
+  --green-color: #169c56;
+  --red-color: #e93156;
+
+  --gold-color: #f3dc8d;
+  --silver-color: #c5c0b4;
+  --bronze-color: #d0a379;
+  --dark-gold-color: #f1d67e;
+  --dark-silver-color: #c1bbae;
+  --dark-bronze-color: #cd9d70;
+
+  --ring-size: calc(min(200px, 14vw));
+  --ring-border-size: calc(var(--ring-size) * 0.1);
+  --ring-offset-left: calc(var(--ring-size) + var(--ring-border-size));
+  --ring-offset-top: calc((var(--ring-size) - var(--ring-border-size)) * 0.5);
+
+  --logo-size-w: calc((var(--ring-size) * 3 + var(--ring-border-size) * 2) * 1.5);
+  --logo-size-h: calc((var(--ring-size) * 1.5 - var(--ring-border-size) * 0.5) * 2);
+  --logo-bg-color: #f1f1f1;
+}
+
+* {
+  background-color: #860037;
+  margin: 0;
+  padding: 0;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--noto-sans-jp-font);
+}
+
+.header-wrapper {
+  margin: 0px 0px 0 0;
+  /*   margin-bottom: 100px; */
+  position: relative;
+  z-index: 0;
+}
+
+.gallery {
+  height: calc(var(--logo-size-h) * 1.25);
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr calc(var(--logo-size-w) * 0.6) 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  grid-template-areas:
+    "p6 p6 p6 p6 . p5 p5 p4 p4"
+    "p6 p6 p6 p6 . p5 p5 p4 p4"
+    "p1 p1 p7 p7 . p2 p2 p2 p3"
+    "p1 p1 p8 p8 . p2 p2 p2 p3";
+}
+
+.i1 {
+  background: url("../images/AHMED\ BIN\ ALI.png");
+  grid-area: p1;
+}
+
+.i2 {
+  background: url("../images/AL\ JANOUB.png");
+  grid-area: p2;
+}
+
+.i3 {
+  background: url("../images/AL\ THUMAMA.png");
+  grid-area: p3;
+}
+
+.i4 {
+  background: url("../images/Al-Bayt-Stadium.png");
+  grid-area: p4;
+}
+
+
+.i5 {
+  background: url("../images/CIUDAD\ DE\ LA\ EDUCACIÓN.png");
+  grid-area: p5;
+}
+
+.i6 {
+  background: url("../images/Estadio\ 974.png");
+  grid-area: p6;
+}
+
+.i7 {
+  background: url("../images/ICÓNICO\ DE\ LUSAIL.png");
+  grid-area: p7;
+}
+
+.i8 {
+  background: url("../images/INTERNACIONAL\ KHALIFA.png");
+  grid-area: p8;
+}
+
+.photo {
+  background-position: center;
+  background-size: cover;
+}
+
+.logo {
+  clip-path: polygon(0 0, 100% 0, 80% 100%, 20% 100%);
+  background-color: #860037;
+  width: calc(var(--logo-size-w) * 1);
+  height: calc(var(--logo-size-h) * 1.25);
+  margin: 0 auto;
+  padding: 20px 0;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+h1 {
+  font-family: var(--roboto-font);
+  font-size: var(--h1-font-size);
+  color: white;
+  text-align: center;
+  margin-bottom: 2vw;
+  text-shadow: 0.3vw 0.3vw 0.1vw rgb(43, 42, 42);
+}
+
+.olympic-rings {
+  position: relative;
+  width: calc(var(--ring-size) * 3 + var(--ring-border-size) * 2);
+  height: calc(var(--ring-size) * 1.5 - var(--ring-border-size) * 0.5);
+  margin: 0 auto;
+}
+
+.selector {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+p {
+  width: 300px;
+  text-align: left;
+  margin-bottom: 30px;
+  color: white;
+}
+
+.options {
+  cursor: pointer;
+  width: 300px;
+  min-height: 60px;
+  max-height: 300px;
+  border-radius: 15px;
+  background-color: rgb(250, 250, 250);
+  box-shadow: 2px 4px 8px #c5c5c5;
+  transition: all 300ms;
+}
+
+.options.opened {
+  overflow-y: scroll;
+}
+
+.opened::-webkit-scrollbar {
+  width: 2px;
+  border-radius: 50%;
+}
+
+.option {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 15px;
+  transition: all 300ms;
+  color: white;
+  box-shadow: 2px 4px 8px #c00050;
+}
+
+.option:nth-child(1) {
+  border-radius: 15px;
+}
+
+.option:hover {
+  background-color: #c00050;
+  color: white;
+}
+
+.button {
+  cursor: pointer;
+  margin-top: 30px;
+  width: 300px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #860037;
+  color: white;
+  font-weight: 600;
+  box-shadow: 2px 4px 8px #c00050;
+}
+
+.message {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 255px;
+  height: 60px;
+  position: absolute;
+  right: -255px;
+  bottom: 5vh;
+  animation: showMessage ease-out 5s;
+}
+
+.message.success {
+  background-color: #c00050;
+}
+
+.message.danger {
+  background-color: #c00050;
+}
+
+@keyframes showMessage {
+
+  0%,
+  100% {
+    right: -255px
+  }
+
+  10% {
+    right: 0
+  }
+
+  90% {
+    right: 0;
+  }
+}
