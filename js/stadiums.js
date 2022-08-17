@@ -83,3 +83,4 @@ function createOptions() {
     }
   });
 };
+console.log(...optionList)
