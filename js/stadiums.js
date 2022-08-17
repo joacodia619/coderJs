@@ -1,6 +1,5 @@
 let options = document.getElementById("options");
 let optionList = ["Ahmad bin Ali", "Al Bayt, Al Janoub", "Al Thumama", "Education City", "Khalifa International", "Lusail", "Ras Abu Abound"];
-
 let button = document.getElementById("button");
 
 let isOpen = false;

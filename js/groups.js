@@ -48,15 +48,16 @@ button.addEventListener('click', e => {
   let seleccionesDeGrupo = seleccionesDelMundial.filter(x => x.grupo == grupo)
   let cardDeCartaEnIngles = ''
   seleccionesDeGrupo.forEach(x => {
+    const { imagen, pais, cups, bestPlayer } = x
     cardDeCartaEnIngles += `
       <div class="card">
         <div class="front">
-          <img src="${x.imagen}" alt="">
+          <img src="${imagen}" alt="">
         </div>
         <div class="back">
-          <h1>${x.pais}</h1>
-          <h2>${x.cups} world cups</h2>
-          <p>Best player ever: ${x.bestPlayer}</p>
+          <h1>${pais}</h1>
+          <h2>${cups} world cups</h2>
+          <p>Best player ever: ${bestPlayer}</p>
         </div>
       </div>`
     document.getElementById('selecciones').innerHTML = cardDeCartaEnIngles
