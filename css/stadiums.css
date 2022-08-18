@@ -164,44 +164,27 @@ p {
   color: white;
 }
 
-.options {
+.containerStadiums {
   cursor: pointer;
   width: 300px;
   min-height: 60px;
   max-height: 300px;
+  border: #860037;
   border-radius: 15px;
-  background-color: rgb(250, 250, 250);
-  box-shadow: 2px 4px 8px #c5c5c5;
-  transition: all 300ms;
-}
-
-.options.opened {
-  overflow-y: scroll;
-}
-
-.opened::-webkit-scrollbar {
-  width: 2px;
-  border-radius: 50%;
-}
-
-.option {
-  width: 100%;
-  height: auto;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 15px 15px;
-  transition: all 300ms;
+  background-color: #860037;
   color: white;
+  font-weight: 600;
   box-shadow: 2px 4px 8px #c00050;
+  transition: all 300ms;
 }
 
-.option:nth-child(1) {
+.stadiums {
+  min-height: 60px;
+  max-height: 300px;
   border-radius: 15px;
-}
-
-.option:hover {
-  background-color: #c00050;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   color: white;
 }
 
@@ -217,40 +200,4 @@ p {
   color: white;
   font-weight: 600;
   box-shadow: 2px 4px 8px #c00050;
-}
-
-.message {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 255px;
-  height: 60px;
-  position: absolute;
-  right: -255px;
-  bottom: 5vh;
-  animation: showMessage ease-out 5s;
-}
-
-.message.success {
-  background-color: #c00050;
-}
-
-.message.danger {
-  background-color: #c00050;
-}
-
-@keyframes showMessage {
-
-  0%,
-  100% {
-    right: -255px
-  }
-
-  10% {
-    right: 0
-  }
-
-  90% {
-    right: 0;
-  }
 }

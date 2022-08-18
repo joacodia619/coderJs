@@ -11,43 +11,50 @@
   <link rel="stylesheet" href="../css/stadiums.css">
 
 </head>
-<input class="menu-icon" type="checkbox" id="menu-icon" name="menu-icon" />
-<label for="menu-icon"></label>
-<nav class="nav">
-  <ul class="pt-5">
-    <li><a id="login" href="../index.html">Menu</a></li>
-    <li><a href="./contactForm.html">Log in</a></li>
-    <li><a href="./grupos.html">Groups</a></li>
-    <li><a href="#">Calendar</a></li>
-    <li><a href="#">todavía no sabemos que poner acá</a></li>
-  </ul>
-</nav>
-<div class="header-wrapper">
-  <div class="gallery">
-    <div class="i1 photo"></div>
-    <div class="i2 photo"></div>
-    <div class="i3 photo"></div>
-    <div class="i4 photo"></div>
-    <div class="i5 photo"></div>
-    <div class="i6 photo"></div>
-    <div class="i7 photo"></div>
-    <div class="i8 photo"></div>
-  </div>
-  <div class="logo">
-    <h1>Stadiums</h1>
-    <div class="selector">
-      <p>Select your city: </p>
-      <div class="options" id="options">
-        <div class="hide-option option" id="hide-option">Select any option.. <i class="fa fa-caret-down"></i></div>
-      </div>
-
-      <div class="button" id="button">Let's complete!</div>
-    </div>
-  </div>
-</div>
-<script src="../js/stadiums.js"></script>
 
 <body>
+  <input class="menu-icon" type="checkbox" id="menu-icon" name="menu-icon" />
+  <label for="menu-icon"></label>
+  <nav class="nav">
+    <ul class="pt-5">
+      <li><a id="login" href="../index.html">Menu</a></li>
+      <li><a href="./contactForm.html">Log in</a></li>
+      <li><a href="./grupos.html">Groups</a></li>
+      <li><a href="#">Calendar</a></li>
+      <li><a href="#">todavía no sabemos que poner acá</a></li>
+    </ul>
+  </nav>
+  <div class="header-wrapper">
+    <div class="gallery">
+      <div class="i1 photo"></div>
+      <div class="i2 photo"></div>
+      <div class="i3 photo"></div>
+      <div class="i4 photo"></div>
+      <div class="i5 photo"></div>
+      <div class="i6 photo"></div>
+      <div class="i7 photo"></div>
+      <div class="i8 photo"></div>
+    </div>
+    <div class="logo">
+      <h1>Stadiums</h1>
+      <div class="selector">
+        <p>Stadiums Qatar 2022: </p>
+        <select class="containerStadiums" id="containerStadiums">
+          <option class="stadiums" id="stadiums" high>Select any stadium.. <i class="fa fa-caret-down"></i></option>
+          <option value="Ahmad bin Ali"></option>
+          <option value="Al Bayt"></option>
+          <option value="Al Janoub"></option>
+          <option value="Al Thumama"></option>
+          <option value="Education City"></option>
+          <option value="Khalifa International"></option>
+          <option value="Lusail"></option>
+          <option value="Ras Abu Abound"></option>
+        </select>
+        <div class="button" id="button">Selected.</div>
+      </div>
+    </div>
+  </div>
+  <script src="../js/stadiums.js"></script>
 
 </body>
 
