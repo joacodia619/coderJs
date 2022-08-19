@@ -1,5 +1,5 @@
 let optionList = [];
-class seleccion {
+class estadio {
   constructor(name, capacity, imagen, city) {
     this.name = name;
     this.capacity = capacity;
@@ -16,17 +16,47 @@ optionList.push(new estadio("Khalifa International", "50.000", "../images/INTERN
 optionList.push(new estadio("Lusail", "80.000", "../images/ICÓNICO\ DE\ LUSAIL.png", "Lusail"))
 optionList.push(new estadio("Ras Abu Abound", "40.000", "../images/Estadio\ 974.png", "Doha"))
 
-let button = document.getElementById("button");
-let containerStadiums = document.getElementById("containerStadiums")
-containerStadiums.addEventListener('click', x => {
-  // let value = .getAttribute('value')
+let options = document.getElementById('options')
+optionList.forEach(element => {
+  let option = document.createElement("option");
+  option.innerText = element.name;
+  option.setAttribute('value', element.name)
+  options.firstElementChild.insertAdjacentElement("afterend", option);
 })
+
+
+let button = document.getElementById("button");
+button.addEventListener('click', x => {
+  let option = options.options[options.selectedIndex].text;
+  let result = optionList.find(x => x.name == option)
+  const { name, capacity, imagen, city } = result
+  Swal.fire({
+    title: `${name}`,
+    text: `Capacity: ${capacity}`,
+    imageUrl: `${imagen}`,
+    imageWidth: 400,
+    imageHeight: 200,
+    imageAlt: 'Custom image',
+    background: '#860037',
+    color: 'white'
+  })
+})
+
+// })
+//  = Swal.fire({
+//   title: '${imagen}',
+//   text: 'Modal with a custom image.',
+//   imageUrl: '${imagen}',
+//   imageWidth: 400,
+//   imageHeight: 200,
+//   imageAlt: 'Custom image',
+// })
 // button.addEventListener('click', e => {
-//   let grupo = document.getElementById('inputGrupo').value
-//   let seleccionesDeGrupo = seleccionesDelMundial.filter(x => x.grupo == grupo)
-//   let cardDeCartaEnIngles = ''
-//   seleccionesDeGrupo.forEach(x => {
-//     const { imagen, pais, cups, bestPlayer } = x
+  //   let grupo = document.getElementById('inputGrupo').value
+  //   let seleccionesDeGrupo = seleccionesDelMundial.filter(x => x.grupo == grupo)
+  //   let cardDeCartaEnIngles = ''
+  //   seleccionesDeGrupo.forEach(x => {
+    //     const { imagen, pais, cups, bestPlayer } = x
 //     cardDeCartaEnIngles += `
 //       <div class="card">
 //         <div class="front">

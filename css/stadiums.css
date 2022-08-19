@@ -164,7 +164,7 @@ p {
   color: white;
 }
 
-.containerStadiums {
+.options {
   cursor: pointer;
   width: 300px;
   min-height: 60px;
@@ -193,6 +193,7 @@ p {
   margin-top: 30px;
   width: 300px;
   height: 60px;
+  border: none;
   display: flex;
   align-items: center;
   justify-content: center;
