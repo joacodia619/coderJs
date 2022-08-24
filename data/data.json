@@ -1,0 +1,2126 @@
+  [
+    {
+      "nombre": "FWC1"
+    },
+    {
+      "nombre": "FWC2",
+      "imagen": "../figuritas/fwc/fwc2.png"
+    },
+    {
+      "nombre": "FWC3"
+    },
+    {
+      "nombre": "FWC4",
+      "imagen": "../figuritas/fwc/fwc4.jpeg"
+    },
+    {
+      "nombre": "FWC5"
+    },
+    {
+      "nombre": "FWC6"
+    },
+    {
+      "nombre": "FWC7"
+    },
+    {
+      "nombre": "FWC8"
+    },
+    {
+      "nombre": "FWC9"
+    },
+    {
+      "nombre": "FWC10"
+    },
+    {
+      "nombre": "FWC11",
+      "imagen": "../figuritas/fwc/fwc11.jpeg"
+    },
+    {
+      "nombre": "FWC12"
+    },
+    {
+      "nombre": "FWC13",
+      "imagen": "../figuritas/fwc/fwc13.jpeg"
+    },
+    {
+      "nombre": "FWC14"
+    },
+    {
+      "nombre": "FWC15"
+    },
+    {
+      "nombre": "FWC16"
+    },
+    {
+      "nombre": "FWC17"
+    },
+    {
+      "nombre": "FWC18"
+    },
+    {
+      "nombre": "BASE"
+    },
+    {
+      "nombre": "BRONZE"
+    },
+    {
+      "nombre": "SILVER"
+    },
+    {
+      "nombre": "GOLD"
+    },
+    {
+      "nombre": "QAT1",
+      "imagen": "../figuritas/qat/qat1.png"
+    },
+    {
+      "nombre": "QAT2",
+      "imagen": "../figuritas/qat/qat2.jpeg"
+    },
+    {
+      "nombre": "QAT3"
+    },
+    {
+      "nombre": "QAT4"
+    },
+    {
+      "nombre": "QAT5"
+    },
+    {
+      "nombre": "QAT6"
+    },
+    {
+      "nombre": "QAT7"
+    },
+    {
+      "nombre": "QAT8",
+      "imagen": "../figuritas/qat/qat8.png"
+    },
+    {
+      "nombre": "QAT9",
+      "imagen": "../figuritas/qat/qat9.png"
+    },
+    {
+      "nombre": "QAT10",
+      "imagen": "../figuritas/qat/qat10.jpeg"
+    },
+    {
+      "nombre": "QAT11"
+    },
+    {
+      "nombre": "QAT12"
+    },
+    {
+      "nombre": "QAT13"
+    },
+    {
+      "nombre": "QAT14"
+    },
+    {
+      "nombre": "QAT15"
+    },
+    {
+      "nombre": "QAT16"
+    },
+    {
+      "nombre": "QAT17",
+      "imagen": "../figuritas/qat/qat17.jpg"
+    },
+    {
+      "nombre": "QAT18"
+    },
+    {
+      "nombre": "QAT19"
+    },
+    {
+      "nombre": "ECU1",
+      "imagen": "../figuritas/ecu/ecu1.png"
+    },
+    {
+      "nombre": "ECU2",
+      "imagen": "../figuritas/ecu/ecu2.jpeg"
+    },
+    {
+      "nombre": "ECU3"
+    },
+    {
+      "nombre": "ECU4"
+    },
+    {
+      "nombre": "ECU5"
+    },
+    {
+      "nombre": "ECU6"
+    },
+    {
+      "nombre": "ECU7"
+    },
+    {
+      "nombre": "ECU8",
+      "imagen": "../figuritas/ecu/ecu8.png"
+    },
+    {
+      "nombre": "ECU9",
+      "imagen": "../figuritas/ecu/ecu9.png"
+    },
+    {
+      "nombre": "ECU10",
+      "imagen": "../figuritas/ecu/ecu10.jpg"
+    },
+    {
+      "nombre": "ECU11"
+    },
+    {
+      "nombre": "ECU12",
+      "imagen": "../figuritas/ecu/ecu12.jpeg"
+    },
+    {
+      "nombre": "ECU13"
+    },
+    {
+      "nombre": "ECU14"
+    },
+    {
+      "nombre": "ECU15",
+      "imagen": "../figuritas/ecu/ecu15.png"
+    },
+    {
+      "nombre": "ECU16"
+    },
+    {
+      "nombre": "ECU17",
+      "imagen": "../figuritas/ecu/ecu17.png"
+    },
+    {
+      "nombre": "ECU18"
+    },
+    {
+      "nombre": "ECU19"
+    },
+    {
+      "nombre": "SEN1",
+      "imagen": "../figuritas/sen/sen1.png"
+    },
+    {
+      "nombre": "SEN2"
+    },
+    {
+      "nombre": "SEN3"
+    },
+    {
+      "nombre": "SEN4"
+    },
+    {
+      "nombre": "SEN5",
+      "imagen": "../figuritas/sen/sen5.jpeg"
+    },
+    {
+      "nombre": "SEN6",
+      "imagen": "../figuritas/sen/sen6.jpeg"
+    },
+    {
+      "nombre": "SEN7"
+    },
+    {
+      "nombre": "SEN8"
+    },
+    {
+      "nombre": "SEN9"
+    },
+    {
+      "nombre": "SEN10",
+      "imagen": "../figuritas/sen/sen10.jpeg"
+    },
+    {
+      "nombre": "SEN11"
+    },
+    {
+      "nombre": "SEN12",
+      "imagen": "../figuritas/sen/sen12.jpeg"
+    },
+    {
+      "nombre": "SEN13"
+    },
+    {
+      "nombre": "SEN14"
+    },
+    {
+      "nombre": "SEN15"
+    },
+    {
+      "nombre": "SEN16"
+    },
+    {
+      "nombre": "SEN17"
+    },
+    {
+      "nombre": "SEN18",
+      "imagen": "../figuritas/sen/sen18.jpg"
+    },
+    {
+      "nombre": "SEN19"
+    },
+    {
+      "nombre": "NED1"
+    },
+    {
+      "nombre": "NED2"
+    },
+    {
+      "nombre": "NED3"
+    },
+    {
+      "nombre": "NED4"
+    },
+    {
+      "nombre": "NED5",
+      "imagen": "../figuritas/ned/ned5.png"
+    },
+    {
+      "nombre": "NED6"
+    },
+    {
+      "nombre": "NED7",
+      "imagen": "../figuritas/ned/ned7.jpeg"
+    },
+    {
+      "nombre": "NED8",
+      "imagen": "../figuritas/ned/ned8.png"
+    },
+    {
+      "nombre": "NED9"
+    },
+    {
+      "nombre": "NED10",
+      "imagen": "../figuritas/ned/ned10.jpeg"
+    },
+    {
+      "nombre": "NED11"
+    },
+    {
+      "nombre": "NED12",
+      "imagen": "../figuritas/ned/ned12.png"
+    },
+    {
+      "nombre": "NED13"
+    },
+    {
+      "nombre": "NED14",
+      "imagen": "../figuritas/ned/ned14.jpeg"
+    },
+    {
+      "nombre": "NED15",
+      "imagen": "../figuritas/ned/ned15.png"
+    },
+    {
+      "nombre": "NED16"
+    },
+    {
+      "nombre": "NED17"
+    },
+    {
+      "nombre": "NED18",
+      "imagen": "../figuritas/ned/ned18.jpeg"
+    },
+    {
+      "nombre": "NED19",
+      "imagen": "../figuritas/ned/ned19jpeg"
+    },
+    {
+      "nombre": "ENG1",
+      "imagen": "../figuritas/eng/eng1.png"
+    },
+    {
+      "nombre": "ENG2",
+      "imagen": "../figuritas/eng/eng2.jpeg"
+    },
+    {
+      "nombre": "ENG3"
+    },
+    {
+      "nombre": "ENG4",
+      "imagen": "../figuritas/eng/eng4.jpeg"
+    },
+    {
+      "nombre": "ENG5"
+    },
+    {
+      "nombre": "ENG6"
+    },
+    {
+      "nombre": "ENG7"
+    },
+    {
+      "nombre": "ENG8",
+      "imagen": "../figuritas/eng/eng8.jpeg"
+    },
+    {
+      "nombre": "ENG9",
+      "imagen": "../figuritas/eng/eng9.png"
+    },
+    {
+      "nombre": "ENG10"
+    },
+    {
+      "nombre": "ENG11"
+    },
+    {
+      "nombre": "ENG12",
+      "imagen": "../figuritas/eng/eng12.jpeg"
+    },
+    {
+      "nombre": "ENG13",
+      "imagen": "../figuritas/eng/eng13.jpeg"
+    },
+    {
+      "nombre": "ENG14"
+    },
+    {
+      "nombre": "ENG15"
+    },
+    {
+      "nombre": "ENG16",
+      "imagen": "../figuritas/eng/eng16.jpg"
+    },
+    {
+      "nombre": "ENG17"
+    },
+    {
+      "nombre": "ENG18",
+      "imagen": "../figuritas/eng/eng18.jpeg"
+    },
+    {
+      "nombre": "ENG19"
+    },
+    {
+      "nombre": "IRN1",
+      "imagen": "../figuritas/irn/irn1.png"
+    },
+    {
+      "nombre": "IRN2",
+      "imagen": "../figuritas/irn/irn2.jpeg"
+    },
+    {
+      "nombre": "IRN3"
+    },
+    {
+      "nombre": "IRN4",
+      "imagen": "../figuritas/irn/irn4.jpeg"
+    },
+    {
+      "nombre": "IRN5"
+    },
+    {
+      "nombre": "IRN6"
+    },
+    {
+      "nombre": "IRN7"
+    },
+    {
+      "nombre": "IRN8",
+      "imagen": "../figuritas/irn/irn8.png"
+    },
+    {
+      "nombre": "IRN9"
+    },
+    {
+      "nombre": "IRN10"
+    },
+    {
+      "nombre": "IRN11"
+    },
+    {
+      "nombre": "IRN12"
+    },
+    {
+      "nombre": "IRN13",
+      "imagen": "../figuritas/irn/irn13.jpeg"
+    },
+    {
+      "nombre": "IRN14",
+      "imagen": "../figuritas/irn/irn14.jpeg"
+    },
+    {
+      "nombre": "IRN15",
+      "imagen": "../figuritas/irn/irn15.jpeg"
+    },
+    {
+      "nombre": "IRN16"
+    },
+    {
+      "nombre": "IRN17",
+      "imagen": "../figuritas/irn/irn17.png"
+    },
+    {
+      "nombre": "IRN18"
+    },
+    {
+      "nombre": "IRN19",
+      "imagen": "../figuritas/irn/irn19.png"
+    },
+    {
+      "nombre": "USA1",
+      "imagen": "../figuritas/usa/usa1.png"
+    },
+    {
+      "nombre": "USA2",
+      "imagen": "../figuritas/usa/usa2.jpg"
+    },
+    {
+      "nombre": "USA3"
+    },
+    {
+      "nombre": "USA4"
+    },
+    {
+      "nombre": "USA5"
+    },
+    {
+      "nombre": "USA6"
+    },
+    {
+      "nombre": "USA7"
+    },
+    {
+      "nombre": "USA8"
+    },
+    {
+      "nombre": "USA9",
+      "imagen": "../figuritas/usa/usa9.png"
+    },
+    {
+      "nombre": "USA10"
+    },
+    {
+      "nombre": "USA11"
+    },
+    {
+      "nombre": "USA12"
+    },
+    {
+      "nombre": "USA13",
+      "imagen": "../figuritas/usa/usa13.png"
+    },
+    {
+      "nombre": "USA14"
+    },
+    {
+      "nombre": "USA15",
+      "imagen": "../figuritas/usa/usa15.jpeg"
+    },
+    {
+      "nombre": "USA16",
+      "imagen": "../figuritas/usa/usa16.jpeg"
+    },
+    {
+      "nombre": "USA17",
+      "imagen": "../figuritas/usa/usa17.jpg"
+    },
+    {
+      "nombre": "USA18",
+      "imagen": "../figuritas/usa/usa18.png"
+    },
+    {
+      "nombre": "USA19"
+    },
+    {
+      "nombre": "WAL1",
+      "imagen": "../figuritas/wal/wal1.jpeg"
+    },
+    {
+      "nombre": "WAL2"
+    },
+    {
+      "nombre": "WAL3"
+    },
+    {
+      "nombre": "WAL4",
+      "imagen": "../figuritas/wal/wal4.png"
+    },
+    {
+      "nombre": "WAL5",
+      "imagen": "../figuritas/wal/wal5.png"
+    },
+    {
+      "nombre": "WAL6"
+    },
+    {
+      "nombre": "WAL7",
+      "imagen": "../figuritas/wal/wal7.jpeg"
+    },
+    {
+      "nombre": "WAL8",
+      "imagen": "../figuritas/wal/wal8.jpeg"
+    },
+    {
+      "nombre": "WAL9"
+    },
+    {
+      "nombre": "WAL10"
+    },
+    {
+      "nombre": "WAL11",
+      "imagen": "../figuritas/wal/wal11.jpeg"
+    },
+    {
+      "nombre": "WAL12"
+    },
+    {
+      "nombre": "WAL13",
+      "imagen": "../figuritas/wal/wal13.jpeg"
+    },
+    {
+      "nombre": "WAL14",
+      "imagen": "../figuritas/wal/wal14.jpeg"
+    },
+    {
+      "nombre": "WAL15",
+      "imagen": "../figuritas/wal/wal15.jpeg"
+    },
+    {
+      "nombre": "WAL16",
+      "imagen": "../figuritas/wal/wal16.jpg"
+    },
+    {
+      "nombre": "WAL17"
+    },
+    {
+      "nombre": "WAL18"
+    },
+    {
+      "nombre": "WAL19"
+    },
+    {
+      "nombre": "ARG1"
+    },
+    {
+      "nombre": "ARG2"
+    },
+    {
+      "nombre": "ARG3"
+    },
+    {
+      "nombre": "ARG4",
+      "imagen": "../figuritas/arg/arg4.png"
+    },
+    {
+      "nombre": "ARG5"
+    },
+    {
+      "nombre": "ARG6"
+    },
+    {
+      "nombre": "ARG7"
+    },
+    {
+      "nombre": "ARG8",
+      "imagen": "../figuritas/arg/arg8.jpeg"
+    },
+    {
+      "nombre": "ARG9",
+      "imagen": "../figuritas/arg/arg9.jpg"
+    },
+    {
+      "nombre": "ARG10",
+      "imagen": "../figuritas/arg/arg10.png"
+    },
+    {
+      "nombre": "ARG11",
+      "imagen": "../figuritas/arg/arg11.jpeg"
+    },
+    {
+      "nombre": "ARG12"
+    },
+    {
+      "nombre": "ARG13"
+    },
+    {
+      "nombre": "ARG14"
+    },
+    {
+      "nombre": "ARG15",
+      "imagen": "../figuritas/arg/arg15.jpeg"
+    },
+    {
+      "nombre": "ARG16",
+      "imagen": "../figuritas/arg/arg16.jpeg"
+    },
+    {
+      "nombre": "ARG17"
+    },
+    {
+      "nombre": "ARG18",
+      "imagen": "../figuritas/arg/arg18.jpg"
+    },
+    {
+      "nombre": "ARG19",
+      "imagen": "../figuritas/arg/arg19.png"
+    },
+    {
+      "nombre": "KSA1"
+    },
+    {
+      "nombre": "KSA2",
+      "imagen": "../figuritas/ksa/ksa2.png"
+    },
+    {
+      "nombre": "KSA3"
+    },
+    {
+      "nombre": "KSA4"
+    },
+    {
+      "nombre": "KSA5"
+    },
+    {
+      "nombre": "KSA6",
+      "imagen": "../figuritas/ksa/ksa6.jpeg"
+    },
+    {
+      "nombre": "KSA7",
+      "imagen": "../figuritas/ksa/ksa7.png"
+    },
+    {
+      "nombre": "KSA8"
+    },
+    {
+      "nombre": "KSA9",
+      "imagen": "../figuritas/ksa/ksa9.jpeg"
+    },
+    {
+      "nombre": "KSA10"
+    },
+    {
+      "nombre": "KSA11"
+    },
+    {
+      "nombre": "KSA12"
+    },
+    {
+      "nombre": "KSA13"
+    },
+    {
+      "nombre": "KSA14"
+    },
+    {
+      "nombre": "KSA15"
+    },
+    {
+      "nombre": "KSA16",
+      "imagen": "../figuritas/ksa/ksa16.jpeg"
+    },
+    {
+      "nombre": "KSA17"
+    },
+    {
+      "nombre": "KSA18"
+    },
+    {
+      "nombre": "KSA19"
+    },
+    {
+      "nombre": "MEX1"
+    },
+    {
+      "nombre": "MEX2"
+    },
+    {
+      "nombre": "MEX3",
+      "imagen": "../figuritas/mex/mex3.jpeg"
+    },
+    {
+      "nombre": "MEX4"
+    },
+    {
+      "nombre": "MEX5",
+      "imagen": "../figuritas/mex/mex5.png"
+    },
+    {
+      "nombre": "MEX6",
+      "imagen": "../figuritas/mex/mex6.jpeg"
+    },
+    {
+      "nombre": "MEX7"
+    },
+    {
+      "nombre": "MEX8",
+      "imagen": "../figuritas/mex/mex8.jpeg"
+    },
+    {
+      "nombre": "MEX9",
+      "imagen": "../figuritas/mex/mex9.jpeg"
+    },
+    {
+      "nombre": "MEX10",
+      "imagen": "../figuritas/mex/mex10.png"
+    },
+    {
+      "nombre": "MEX11"
+    },
+    {
+      "nombre": "MEX12"
+    },
+    {
+      "nombre": "MEX13"
+    },
+    {
+      "nombre": "MEX14"
+    },
+    {
+      "nombre": "MEX15"
+    },
+    {
+      "nombre": "MEX16",
+      "imagen": "../figuritas/mex/mex16.jpeg"
+    },
+    {
+      "nombre": "MEX17",
+      "imagen": "../figuritas/mex/mex17.jpeg"
+    },
+    {
+      "nombre": "MEX18"
+    },
+    {
+      "nombre": "MEX19",
+      "imagen": "../figuritas/mex/mex19.png"
+    },
+    {
+      "nombre": "POL1",
+      "imagen": "../figuritas/pol/pol1.png"
+    },
+    {
+      "nombre": "POL2"
+    },
+    {
+      "nombre": "POL3"
+    },
+    {
+      "nombre": "POL4"
+    },
+    {
+      "nombre": "POL5"
+    },
+    {
+      "nombre": "POL6",
+      "imagen": "../figuritas/pol/pol6.png"
+    },
+    {
+      "nombre": "POL7",
+      "imagen": "../figuritas/pol/pol7.png"
+    },
+    {
+      "nombre": "POL8"
+    },
+    {
+      "nombre": "POL9"
+    },
+    {
+      "nombre": "POL10",
+      "imagen": "../figuritas/pol/pol10.png"
+    },
+    {
+      "nombre": "POL11"
+    },
+    {
+      "nombre": "POL12",
+      "imagen": "../figuritas/pol/pol12.png"
+    },
+    {
+      "nombre": "POL13",
+      "imagen": "../figuritas/pol/pol13.jpeg"
+    },
+    {
+      "nombre": "POL14",
+      "imagen": "../figuritas/pol/pol14.jpeg"
+    },
+    {
+      "nombre": "POL15"
+    },
+    {
+      "nombre": "POL16",
+      "imagen": "../figuritas/pol/por16.jpg"
+    },
+    {
+      "nombre": "POL17"
+    },
+    {
+      "nombre": "POL18",
+      "imagen": "../figuritas/pol/pol18.jpeg"
+    },
+    {
+      "nombre": "POL19"
+    },
+    {
+      "nombre": "FRA1",
+      "imagen": "../figuritas/fra/fra1.png"
+    },
+    {
+      "nombre": "FRA2",
+      "imagen": "../figuritas/fra/fra2.png"
+    },
+    {
+      "nombre": "FRA3",
+      "imagen": "../figuritas/fra/fra3.jpeg"
+    },
+    {
+      "nombre": "FRA4"
+    },
+    {
+      "nombre": "FRA5",
+      "imagen": "../figuritas/fra/fra5.png"
+    },
+    {
+      "nombre": "FRA6",
+      "imagen": "../figuritas/fra/fra6.jpeg"
+    },
+    {
+      "nombre": "FRA7",
+      "imagen": "../figuritas/fra/fra7.jpeg"
+    },
+    {
+      "nombre": "FRA8"
+    },
+    {
+      "nombre": "FRA9",
+      "imagen": "../figuritas/fra/fra9.png"
+    },
+    {
+      "nombre": "FRA10"
+    },
+    {
+      "nombre": "FRA11",
+      "imagen": "../figuritas/fra/fra11.jpeg"
+    },
+    {
+      "nombre": "FRA12"
+    },
+    {
+      "nombre": "FRA13",
+      "imagen": "../figuritas/fra/fra13.jpeg"
+    },
+    {
+      "nombre": "FRA14"
+    },
+    {
+      "nombre": "FRA15",
+      "imagen": "../figuritas/fra/fra15.png"
+    },
+    {
+      "nombre": "FRA16"
+    },
+    {
+      "nombre": "FRA17"
+    },
+    {
+      "nombre": "FRA18",
+      "imagen": "../figuritas/fra/fra18.jpg"
+    },
+    {
+      "nombre": "FRA19"
+    },
+    {
+      "nombre": "AUS1"
+    },
+    {
+      "nombre": "AUS2",
+      "imagen": "../figuritas/aus/aus2.jpg"
+    },
+    {
+      "nombre": "AUS3"
+    },
+    {
+      "nombre": "AUS4"
+    },
+    {
+      "nombre": "AUS5",
+      "imagen": "../figuritas/aus/aus5.jpeg"
+    },
+    {
+      "nombre": "AUS6"
+    },
+    {
+      "nombre": "AUS7"
+    },
+    {
+      "nombre": "AUS8",
+      "imagen": "../figuritas/aus/aus8.png"
+    },
+    {
+      "nombre": "AUS9"
+    },
+    {
+      "nombre": "AUS10",
+      "imagen": "../figuritas/aus/aus10.png"
+    },
+    {
+      "nombre": "AUS11"
+    },
+    {
+      "nombre": "AUS12",
+      "imagen": "../figuritas/aus/aus12.jpeg"
+    },
+    {
+      "nombre": "AUS13"
+    },
+    {
+      "nombre": "AUS14"
+    },
+    {
+      "nombre": "AUS15"
+    },
+    {
+      "nombre": "AUS16",
+      "imagen": "../figuritas/aus/aus16.jpeg"
+    },
+    {
+      "nombre": "AUS17",
+      "imagen": "../figuritas/aus/aus17.jpeg"
+    },
+    {
+      "nombre": "AUS18",
+      "imagen": "../figuritas/aus/aus18.jpeg"
+    },
+    {
+      "nombre": "AUS19"
+    },
+    {
+      "nombre": "DEN1",
+      "imagen": "../figuritas/den/den1png"
+    },
+    {
+      "nombre": "DEN2",
+      "imagen": "../figuritas/den/den2.png"
+    },
+    {
+      "nombre": "DEN3"
+    },
+    {
+      "nombre": "DEN4"
+    },
+    {
+      "nombre": "DEN5",
+      "imagen": "../figuritas/den/den5.jpeg"
+    },
+    {
+      "nombre": "DEN6"
+    },
+    {
+      "nombre": "DEN7"
+    },
+    {
+      "nombre": "DEN8"
+    },
+    {
+      "nombre": "DEN9",
+      "imagen": "../figuritas/den/den9.jpeg"
+    },
+    {
+      "nombre": "DEN10",
+      "imagen": "../figuritas/den/den10.png"
+    },
+    {
+      "nombre": "DEN11",
+      "imagen": "../figuritas/den/den11.jpg"
+    },
+    {
+      "nombre": "DEN12"
+    },
+    {
+      "nombre": "DEN13",
+      "imagen": "../figuritas/den/den13.jpeg"
+    },
+    {
+      "nombre": "DEN14",
+      "imagen": "../figuritas/den/den14.jpeg"
+    },
+    {
+      "nombre": "DEN15"
+    },
+    {
+      "nombre": "DEN16"
+    },
+    {
+      "nombre": "DEN17",
+      "imagen": "../figuritas/den/den17.jpg"
+    },
+    {
+      "nombre": "DEN18"
+    },
+    {
+      "nombre": "DEN19"
+    },
+    {
+      "nombre": "TUN1",
+      "imagen": "../figuritas/tun/tun1.jpeg"
+    },
+    {
+      "nombre": "TUN2"
+    },
+    {
+      "nombre": "TUN3"
+    },
+    {
+      "nombre": "TUN4",
+      "imagen": "../figuritas/tun/tun4.png"
+    },
+    {
+      "nombre": "TUN5"
+    },
+    {
+      "nombre": "TUN6"
+    },
+    {
+      "nombre": "TUN7"
+    },
+    {
+      "nombre": "TUN8"
+    },
+    {
+      "nombre": "TUN9"
+    },
+    {
+      "nombre": "TUN10"
+    },
+    {
+      "nombre": "TUN11"
+    },
+    {
+      "nombre": "TUN12",
+      "imagen": "../figuritas/tun/tun12.png"
+    },
+    {
+      "nombre": "TUN13",
+      "imagen": "../figuritas/tun/tun13.jpeg"
+    },
+    {
+      "nombre": "TUN14"
+    },
+    {
+      "nombre": "TUN15"
+    },
+    {
+      "nombre": "TUN16"
+    },
+    {
+      "nombre": "TUN17"
+    },
+    {
+      "nombre": "TUN18"
+    },
+    {
+      "nombre": "TUN19"
+    },
+    {
+      "nombre": "ESP1",
+      "imagen": "../figuritas/esp/esp1.png"
+    },
+    {
+      "nombre": "ESP2"
+    },
+    {
+      "nombre": "ESP3"
+    },
+    {
+      "nombre": "ESP4",
+      "imagen": "../figuritas/esp/esp4.png"
+    },
+    {
+      "nombre": "ESP5",
+      "imagen": "../figuritas/esp/esp5.jpeg"
+    },
+    {
+      "nombre": "ESP6",
+      "imagen": "../figuritas/esp/esp6.jpeg"
+    },
+    {
+      "nombre": "ESP7",
+      "imagen": "../figuritas/esp/esp7.jpg"
+    },
+    {
+      "nombre": "ESP8"
+    },
+    {
+      "nombre": "ESP9",
+      "imagen": "../figuritas/esp/esp9.png"
+    },
+    {
+      "nombre": "ESP10"
+    },
+    {
+      "nombre": "ESP11",
+      "imagen": "../figuritas/esp/esp11.jpeg"
+    },
+    {
+      "nombre": "ESP12",
+      "imagen": "../figuritas/esp/esp12.jpg"
+    },
+    {
+      "nombre": "ESP13",
+      "imagen": "../figuritas/esp/esp13.jpeg"
+    },
+    {
+      "nombre": "ESP14"
+    },
+    {
+      "nombre": "ESP15",
+      "imagen": "../figuritas/esp/esp15.png"
+    },
+    {
+      "nombre": "ESP16"
+    },
+    {
+      "nombre": "ESP17",
+      "imagen": "../figuritas/esp/esp17.jpeg"
+    },
+    {
+      "nombre": "ESP18",
+      "imagen": "../figuritas/esp/esp18.jpeg"
+    },
+    {
+      "nombre": "ESP19"
+    },
+    {
+      "nombre": "CRC1"
+    },
+    {
+      "nombre": "CRC2",
+      "imagen": "../figuritas/crc/crc2.jpeg"
+    },
+    {
+      "nombre": "CRC3",
+      "imagen": "../figuritas/crc/crc3.jpeg"
+    },
+    {
+      "nombre": "CRC4"
+    },
+    {
+      "nombre": "CRC5"
+    },
+    {
+      "nombre": "CRC6",
+      "imagen": "../figuritas/crc/crc6.jpeg"
+    },
+    {
+      "nombre": "CRC7",
+      "imagen": "../figuritas/crc/crc7.png"
+    },
+    {
+      "nombre": "CRC8",
+      "imagen": "../figuritas/crc/crc8.png"
+    },
+    {
+      "nombre": "CRC9",
+      "imagen": "../figuritas/crc/crc9.jpeg"
+    },
+    {
+      "nombre": "CRC10"
+    },
+    {
+      "nombre": "CRC11",
+      "imagen": "../figuritas/crc/crc11.jpeg"
+    },
+    {
+      "nombre": "CRC12"
+    },
+    {
+      "nombre": "CRC13",
+      "imagen": "../figuritas/crc/crc13.jpeg"
+    },
+    {
+      "nombre": "CRC14"
+    },
+    {
+      "nombre": "CRC15"
+    },
+    {
+      "nombre": "CRC16"
+    },
+    {
+      "nombre": "CRC17"
+    },
+    {
+      "nombre": "CRC18"
+    },
+    {
+      "nombre": "CRC19"
+    },
+    {
+      "nombre": "GER1",
+      "imagen": "../figuritas/ger/ger1.png"
+    },
+    {
+      "nombre": "GER2"
+    },
+    {
+      "nombre": "GER3"
+    },
+    {
+      "nombre": "GER4"
+    },
+    {
+      "nombre": "GER5"
+    },
+    {
+      "nombre": "GER6",
+      "imagen": "../figuritas/ger/ger6.jpeg"
+    },
+    {
+      "nombre": "GER7"
+    },
+    {
+      "nombre": "GER8",
+      "imagen": "../figuritas/ger/ger8.jpeg"
+    },
+    {
+      "nombre": "GER9"
+    },
+    {
+      "nombre": "GER10"
+    },
+    {
+      "nombre": "GER11"
+    },
+    {
+      "nombre": "GER12",
+      "imagen": "../figuritas/ger/ger12.jpeg"
+    },
+    {
+      "nombre": "GER13"
+    },
+    {
+      "nombre": "GER14",
+      "imagen": "../figuritas/ger/ger14.png"
+    },
+    {
+      "nombre": "GER15"
+    },
+    {
+      "nombre": "GER16"
+    },
+    {
+      "nombre": "GER17"
+    },
+    {
+      "nombre": "GER18"
+    },
+    {
+      "nombre": "GER19"
+    },
+    {
+      "nombre": "JPN1",
+      "imagen": "../figuritas/jpn/jpn1.jpeg"
+    },
+    {
+      "nombre": "JPN2"
+    },
+    {
+      "nombre": "JPN3"
+    },
+    {
+      "nombre": "JPN4"
+    },
+    {
+      "nombre": "JPN5"
+    },
+    {
+      "nombre": "JPN6",
+      "imagen": "../figuritas/jpn/jpn6.png"
+    },
+    {
+      "nombre": "JPN7",
+      "imagen": "../figuritas/jpn/jpn7.png"
+    },
+    {
+      "nombre": "JPN8",
+      "imagen": "../figuritas/jpn/jpn8.png"
+    },
+    {
+      "nombre": "JPN9",
+      "imagen": "../figuritas/jpn/jpn9.png"
+    },
+    {
+      "nombre": "JPN10"
+    },
+    {
+      "nombre": "JPN11"
+    },
+    {
+      "nombre": "JPN12"
+    },
+    {
+      "nombre": "JPN13",
+      "imagen": "../figuritas/jpn/jpn13.jpeg"
+    },
+    {
+      "nombre": "JPN14"
+    },
+    {
+      "nombre": "JPN15"
+    },
+    {
+      "nombre": "JPN16",
+      "imagen": "../figuritas/jpn/jpn16.jpeg"
+    },
+    {
+      "nombre": "JPN17"
+    },
+    {
+      "nombre": "JPN18"
+    },
+    {
+      "nombre": "JPN19"
+    },
+    {
+      "nombre": "BEL1",
+      "imagen": "../figuritas/bel/bel1.png"
+    },
+    {
+      "nombre": "BEL2"
+    },
+    {
+      "nombre": "BEL3"
+    },
+    {
+      "nombre": "BEL4"
+    },
+    {
+      "nombre": "BEL5"
+    },
+    {
+      "nombre": "BEL6",
+      "imagen": "../figuritas/bel/bel6.png"
+    },
+    {
+      "nombre": "BEL7"
+    },
+    {
+      "nombre": "BEL8",
+      "imagen": "../figuritas/bel/bel8.png"
+    },
+    {
+      "nombre": "BEL9"
+    },
+    {
+      "nombre": "BEL10"
+    },
+    {
+      "nombre": "BEL11"
+    },
+    {
+      "nombre": "BEL12"
+    },
+    {
+      "nombre": "BEL13"
+    },
+    {
+      "nombre": "BEL14"
+    },
+    {
+      "nombre": "BEL15"
+    },
+    {
+      "nombre": "BEL16"
+    },
+    {
+      "nombre": "BEL17",
+      "imagen": "../figuritas/bel/bel17.jpg"
+    },
+    {
+      "nombre": "BEL18",
+      "imagen": "../figuritas/bel/bel18.png"
+    },
+    {
+      "nombre": "BEL19"
+    },
+    {
+      "nombre": "CAN1"
+    },
+    {
+      "nombre": "CAN2",
+      "imagen": "../figuritas/can/can2.png"
+    },
+    {
+      "nombre": "CAN3"
+    },
+    {
+      "nombre": "CAN4"
+    },
+    {
+      "nombre": "CAN5"
+    },
+    {
+      "nombre": "CAN6"
+    },
+    {
+      "nombre": "CAN7"
+    },
+    {
+      "nombre": "CAN8",
+      "imagen": "../figuritas/can/can8.png"
+    },
+    {
+      "nombre": "CAN9"
+    },
+    {
+      "nombre": "CAN10"
+    },
+    {
+      "nombre": "CAN11",
+      "imagen": "../figuritas/can/can11.jpg"
+    },
+    {
+      "nombre": "CAN12",
+      "imagen": "../figuritas/can/can12.png"
+    },
+    {
+      "nombre": "CAN13",
+      "imagen": "../figuritas/can/can13.jpg"
+    },
+    {
+      "nombre": "CAN14"
+    },
+    {
+      "nombre": "CAN15"
+    },
+    {
+      "nombre": "CAN16"
+    },
+    {
+      "nombre": "CAN17",
+      "imagen": "../figuritas/can/can17.jpg"
+    },
+    {
+      "nombre": "CAN18"
+    },
+    {
+      "nombre": "CAN19"
+    },
+    {
+      "nombre": "MAR1"
+    },
+    {
+      "nombre": "MAR2"
+    },
+    {
+      "nombre": "MAR3"
+    },
+    {
+      "nombre": "MAR4"
+    },
+    {
+      "nombre": "MAR5",
+      "imagen": "../figuritas/mar/mar5.jpg"
+    },
+    {
+      "nombre": "MAR6"
+    },
+    {
+      "nombre": "MAR7"
+    },
+    {
+      "nombre": "MAR8"
+    },
+    {
+      "nombre": "MAR9",
+      "imagen": "../figuritas/mar/mar9.png"
+    },
+    {
+      "nombre": "MAR10",
+      "imagen": "../figuritas/mar/mar10.png"
+    },
+    {
+      "nombre": "MAR11"
+    },
+    {
+      "nombre": "MAR12"
+    },
+    {
+      "nombre": "MAR13",
+      "imagen": "../figuritas/mar/mar13.png"
+    },
+    {
+      "nombre": "MAR14",
+      "imagen": "../figuritas/mar/mar14.png"
+    },
+    {
+      "nombre": "MAR15"
+    },
+    {
+      "nombre": "MAR16"
+    },
+    {
+      "nombre": "MAR17",
+      "imagen": "../figuritas/mar/mar17.png"
+    },
+    {
+      "nombre": "MAR18"
+    },
+    {
+      "nombre": "MAR19"
+    },
+    {
+      "nombre": "CRO1"
+    },
+    {
+      "nombre": "CRO2",
+      "imagen": "../figuritas/cro/cro2.jpg"
+    },
+    {
+      "nombre": "CRO3"
+    },
+    {
+      "nombre": "CRO4"
+    },
+    {
+      "nombre": "CRO5",
+      "imagen": "../figuritas/cro/cro5.png"
+    },
+    {
+      "nombre": "CRO6",
+      "imagen": "../figuritas/cro/cro6.png"
+    },
+    {
+      "nombre": "CRO7",
+      "imagen": "../figuritas/cro/cro7.png"
+    },
+    {
+      "nombre": "CRO8"
+    },
+    {
+      "nombre": "CRO9"
+    },
+    {
+      "nombre": "CRO10"
+    },
+    {
+      "nombre": "CRO11"
+    },
+    {
+      "nombre": "CRO12",
+      "imagen": "../figuritas/cro/cro12.jpg"
+    },
+    {
+      "nombre": "CRO13"
+    },
+    {
+      "nombre": "CRO14"
+    },
+    {
+      "nombre": "CRO15"
+    },
+    {
+      "nombre": "CRO16"
+    },
+    {
+      "nombre": "CRO17"
+    },
+    {
+      "nombre": "CRO18"
+    },
+    {
+      "nombre": "CRO19"
+    },
+    {
+      "nombre": "BRA1"
+    },
+    {
+      "nombre": "BRA2",
+      "imagen": "../figuritas/bra/bra2.png"
+    },
+    {
+      "nombre": "BRA3"
+    },
+    {
+      "nombre": "BRA4"
+    },
+    {
+      "nombre": "BRA5",
+      "imagen": "../figuritas/bra/bra5"
+    },
+    {
+      "nombre": "BRA6"
+    },
+    {
+      "nombre": "BRA7"
+    },
+    {
+      "nombre": "BRA8",
+      "imagen": "../figuritas/bra/bra8.png"
+    },
+    {
+      "nombre": "BRA9",
+      "imagen": "../figuritas/bra/bra9.png"
+    },
+    {
+      "nombre": "BRA10"
+    },
+    {
+      "nombre": "BRA11"
+    },
+    {
+      "nombre": "BRA12",
+      "imagen": "../figuritas/bra/bra12.png"
+    },
+    {
+      "nombre": "BRA13",
+      "imagen": "../figuritas/bra/bra13.png"
+    },
+    {
+      "nombre": "BRA14"
+    },
+    {
+      "nombre": "BRA15",
+      "imagen": "../figuritas/bra/bra15.png"
+    },
+    {
+      "nombre": "BRA16"
+    },
+    {
+      "nombre": "BRA17"
+    },
+    {
+      "nombre": "BRA18"
+    },
+    {
+      "nombre": "BRA19",
+      "imagen": "../figuritas/bra/bra19.jpg"
+    },
+    {
+      "nombre": "SRB1"
+    },
+    {
+      "nombre": "SRB2"
+    },
+    {
+      "nombre": "SRB3"
+    },
+    {
+      "nombre": "SRB4"
+    },
+    {
+      "nombre": "SRB5"
+    },
+    {
+      "nombre": "SRB6"
+    },
+    {
+      "nombre": "SRB7"
+    },
+    {
+      "nombre": "SRB8"
+    },
+    {
+      "nombre": "SRB9"
+    },
+    {
+      "nombre": "SRB10"
+    },
+    {
+      "nombre": "SRB11"
+    },
+    {
+      "nombre": "SRB12",
+      "imagen": "../figuritas/srb/srb12.jpg"
+    },
+    {
+      "nombre": "SRB13"
+    },
+    {
+      "nombre": "SRB14"
+    },
+    {
+      "nombre": "SRB15"
+    },
+    {
+      "nombre": "SRB16"
+    },
+    {
+      "nombre": "SRB17"
+    },
+    {
+      "nombre": "SRB18"
+    },
+    {
+      "nombre": "SRB19"
+    },
+    {
+      "nombre": "SUI1"
+    },
+    {
+      "nombre": "SUI2"
+    },
+    {
+      "nombre": "SUI3"
+    },
+    {
+      "nombre": "SUI4"
+    },
+    {
+      "nombre": "SUI5"
+    },
+    {
+      "nombre": "SUI6"
+    },
+    {
+      "nombre": "SUI7"
+    },
+    {
+      "nombre": "SUI8"
+    },
+    {
+      "nombre": "SUI9"
+    },
+    {
+      "nombre": "SUI10"
+    },
+    {
+      "nombre": "SUI11"
+    },
+    {
+      "nombre": "SUI12"
+    },
+    {
+      "nombre": "SUI13"
+    },
+    {
+      "nombre": "SUI14"
+    },
+    {
+      "nombre": "SUI15"
+    },
+    {
+      "nombre": "SUI16"
+    },
+    {
+      "nombre": "SUI17"
+    },
+    {
+      "nombre": "SUI18"
+    },
+    {
+      "nombre": "SUI19"
+    },
+    {
+      "nombre": "CMR1"
+    },
+    {
+      "nombre": "CMR2"
+    },
+    {
+      "nombre": "CMR3"
+    },
+    {
+      "nombre": "CMR4"
+    },
+    {
+      "nombre": "CMR5"
+    },
+    {
+      "nombre": "CMR6"
+    },
+    {
+      "nombre": "CMR7"
+    },
+    {
+      "nombre": "CMR8"
+    },
+    {
+      "nombre": "CMR9"
+    },
+    {
+      "nombre": "CMR10"
+    },
+    {
+      "nombre": "CMR11"
+    },
+    {
+      "nombre": "CMR12"
+    },
+    {
+      "nombre": "CMR13"
+    },
+    {
+      "nombre": "CMR14"
+    },
+    {
+      "nombre": "CMR15"
+    },
+    {
+      "nombre": "CMR16"
+    },
+    {
+      "nombre": "CMR17"
+    },
+    {
+      "nombre": "CMR18"
+    },
+    {
+      "nombre": "CMR19"
+    },
+    {
+      "nombre": "POR1"
+    },
+    {
+      "nombre": "POR2"
+    },
+    {
+      "nombre": "POR3"
+    },
+    {
+      "nombre": "POR4"
+    },
+    {
+      "nombre": "POR5"
+    },
+    {
+      "nombre": "POR6"
+    },
+    {
+      "nombre": "POR7"
+    },
+    {
+      "nombre": "POR8"
+    },
+    {
+      "nombre": "POR9"
+    },
+    {
+      "nombre": "POR10"
+    },
+    {
+      "nombre": "POR11",
+      "imagen": "../figuritas/por/por11.jpg"
+    },
+    {
+      "nombre": "POR12"
+    },
+    {
+      "nombre": "POR13"
+    },
+    {
+      "nombre": "POR14"
+    },
+    {
+      "nombre": "POR15"
+    },
+    {
+      "nombre": "POR16"
+    },
+    {
+      "nombre": "POR17"
+    },
+    {
+      "nombre": "POR18"
+    },
+    {
+      "nombre": "POR19"
+    },
+    {
+      "nombre": "GHA1"
+    },
+    {
+      "nombre": "GHA2"
+    },
+    {
+      "nombre": "GHA3"
+    },
+    {
+      "nombre": "GHA4"
+    },
+    {
+      "nombre": "GHA5"
+    },
+    {
+      "nombre": "GHA6"
+    },
+    {
+      "nombre": "GHA7"
+    },
+    {
+      "nombre": "GHA8"
+    },
+    {
+      "nombre": "GHA9"
+    },
+    {
+      "nombre": "GHA10"
+    },
+    {
+      "nombre": "GHA11"
+    },
+    {
+      "nombre": "GHA12"
+    },
+    {
+      "nombre": "GHA13",
+      "imagen": "../figuritas/gha/gha13.jpg"
+    },
+    {
+      "nombre": "GHA14"
+    },
+    {
+      "nombre": "GHA15"
+    },
+    {
+      "nombre": "GHA16"
+    },
+    {
+      "nombre": "GHA17"
+    },
+    {
+      "nombre": "GHA18"
+    },
+    {
+      "nombre": "GHA19"
+    },
+    {
+      "nombre": "URU1"
+    },
+    {
+      "nombre": "URU2"
+    },
+    {
+      "nombre": "URU3"
+    },
+    {
+      "nombre": "URU4"
+    },
+    {
+      "nombre": "URU5"
+    },
+    {
+      "nombre": "URU6"
+    },
+    {
+      "nombre": "URU7"
+    },
+    {
+      "nombre": "URU8"
+    },
+    {
+      "nombre": "URU9"
+    },
+    {
+      "nombre": "URU10"
+    },
+    {
+      "nombre": "URU11"
+    },
+    {
+      "nombre": "URU12"
+    },
+    {
+      "nombre": "URU13"
+    },
+    {
+      "nombre": "URU14"
+    },
+    {
+      "nombre": "URU15"
+    },
+    {
+      "nombre": "URU16"
+    },
+    {
+      "nombre": "URU17"
+    },
+    {
+      "nombre": "URU18"
+    },
+    {
+      "nombre": "URU19",
+      "imagen": "../figuritas/uru/uru19.jpg"
+    },
+    {
+      "nombre": "KOR1"
+    },
+    {
+      "nombre": "KOR2"
+    },
+    {
+      "nombre": "KOR3"
+    },
+    {
+      "nombre": "KOR4"
+    },
+    {
+      "nombre": "KOR5"
+    },
+    {
+      "nombre": "KOR6"
+    },
+    {
+      "nombre": "KOR7"
+    },
+    {
+      "nombre": "KOR8"
+    },
+    {
+      "nombre": "KOR9"
+    },
+    {
+      "nombre": "KOR10"
+    },
+    {
+      "nombre": "KOR11"
+    },
+    {
+      "nombre": "KOR12",
+      "imagen": "../figuritas/kor/kor12.jpg"
+    },
+    {
+      "nombre": "KOR13"
+    },
+    {
+      "nombre": "KOR14"
+    },
+    {
+      "nombre": "KOR15"
+    },
+    {
+      "nombre": "KOR16"
+    },
+    {
+      "nombre": "KOR17"
+    },
+    {
+      "nombre": "KOR18",
+      "imagen": "../figuritas/kor/kor18.jpg"
+    },
+    {
+      "nombre": "KOR19"
+    },
+    {
+      "nombre": "FWC19"
+    },
+    {
+      "nombre": "FWC20"
+    },
+    {
+      "nombre": "FWC21"
+    },
+    {
+      "nombre": "FWC22"
+    },
+    {
+      "nombre": "FWC23"
+    },
+    {
+      "nombre": "FWC24"
+    },
+    {
+      "nombre": "FWC25"
+    },
+    {
+      "nombre": "FWC26"
+    },
+    {
+      "nombre": "FWC27"
+    },
+    {
+      "nombre": "FWC28"
+    },
+    {
+      "nombre": "FWC29"
+    }
+  ]
