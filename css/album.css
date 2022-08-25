@@ -1,0 +1,16 @@
+* {
+  background-color: #860037;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+img {
+  height: 350px;
+  width: 250px;
+}
