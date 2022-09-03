@@ -20,7 +20,7 @@ seleccionesDelMundial.push(new seleccion("Grupo C", "Argentina", '../img/argenti
 seleccionesDelMundial.push(new seleccion("Grupo C", "Arabia Saudita", '../img/arabia.png', 0, 'Saeed Al-Owairan'));
 seleccionesDelMundial.push(new seleccion("Grupo C", "México", '../img/mexico.png', 0, 'Hugo Sanchez'));
 seleccionesDelMundial.push(new seleccion("Grupo C", "Polonia", '../img/polonia.png', 0, 'Robert Lewandovski'));
-seleccionesDelMundial.push(new seleccion("Grupo D", "Francia", '../img/francia.jpg', 2, 'Michel Platini'));
+seleccionesDelMundial.push(new seleccion("Grupo D", "Francia", '../img/francia.png', 2, 'Michel Platini'));
 seleccionesDelMundial.push(new seleccion("Grupo D", "Australia", '../img/australia.png', 0, 'Tim Cahill'));
 seleccionesDelMundial.push(new seleccion("Grupo D", "Dinamarca", '../img/dinamarca.png', 0, 'Peter Schemeichel'));
 seleccionesDelMundial.push(new seleccion("Grupo D", "Túnez", '../img/tune.png', 0, 'Issam Jermaa'));
@@ -32,7 +32,7 @@ seleccionesDelMundial.push(new seleccion("Grupo F", "Bélgica", '../img/belgica.
 seleccionesDelMundial.push(new seleccion("Grupo F", "Canadá", '../img/canada.png', 0, 'Alphonso Davies'));
 seleccionesDelMundial.push(new seleccion("Grupo F", "Marruecos", '../img/morocco.png', 0, 'Achraf Hakimi'));
 seleccionesDelMundial.push(new seleccion("Grupo F", "Croacia", '../img/croacia.png', 0, 'Luka Modric'));
-seleccionesDelMundial.push(new seleccion("Grupo G", "Brasil", '../img/BRAS.png', 5, 'Pelé'));
+seleccionesDelMundial.push(new seleccion("Grupo G", "Brasil", '../img/BRAS.jpg', 5, 'Pelé'));
 seleccionesDelMundial.push(new seleccion("Grupo G", "Serbia", '../img/serbia.png', 0, 'Dejan Stankovic'));
 seleccionesDelMundial.push(new seleccion("Grupo G", "Suiza", '../img/suiza.png', 0, 'Xherdan Shaqiri'));
 seleccionesDelMundial.push(new seleccion("Grupo G", "Camerún", '../img/camerun.png', 0, 'Samuel Eto'));

@@ -1,7 +1,11 @@
   [
     {
+      "nombre": "FWC0",
+      "imagen": "../figuritas/fwc/fwc0.png"
+    },
+    {
       "nombre": "FWC1",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/fwc/fwc1.png"
     },
     {
       "nombre": "FWC2",
@@ -9,83 +13,67 @@
     },
     {
       "nombre": "FWC3",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/fwc/fwc3.png"
     },
     {
       "nombre": "FWC4",
-      "imagen": "../figuritas/fwc/fwc4.jpeg"
+      "imagen": "../figuritas/fwc/fwc4.png"
     },
     {
       "nombre": "FWC5",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/fwc/fwc5.png"
     },
     {
       "nombre": "FWC6",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/fwc/fwc6.png"
     },
     {
       "nombre": "FWC7",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/fwc/fwc7.png"
     },
     {
       "nombre": "FWC8",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/fwc/fwc8.png"
     },
     {
       "nombre": "FWC9",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/fwc/fwc9.png"
     },
     {
       "nombre": "FWC10",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/fwc/fwc10.png"
     },
     {
       "nombre": "FWC11",
-      "imagen": "../figuritas/fwc/fwc11.jpeg"
+      "imagen": "../figuritas/fwc/fwc11.png"
     },
     {
       "nombre": "FWC12",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/fwc/fwc12.png"
     },
     {
       "nombre": "FWC13",
-      "imagen": "../figuritas/fwc/fwc13.jpeg"
+      "imagen": "../figuritas/fwc/fwc13.png"
     },
     {
       "nombre": "FWC14",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/fwc/fwc14.png"
     },
     {
       "nombre": "FWC15",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/fwc/fwc15.png"
     },
     {
       "nombre": "FWC16",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/fwc/fwc16.png"
     },
     {
       "nombre": "FWC17",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/fwc/fwc17.png"
     },
     {
       "nombre": "FWC18",
-      "imagen": "../figuritas/barasi.png"
-    },
-    {
-      "nombre": "BASE",
-      "imagen": "../figuritas/barasi.png"
-    },
-    {
-      "nombre": "BRONZE",
-      "imagen": "../figuritas/barasi.png"
-    },
-    {
-      "nombre": "SILVER",
-      "imagen": "../figuritas/barasi.png"
-    },
-    {
-      "nombre": "GOLD",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/fwc/fwc18.png"
     },
     {
       "nombre": "QAT1",
@@ -93,27 +81,27 @@
     },
     {
       "nombre": "QAT2",
-      "imagen": "../figuritas/qat/qat2.jpeg"
+      "imagen": "../figuritas/qat/qat2.png"
     },
     {
       "nombre": "QAT3",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/qat/qat3.png"
     },
     {
       "nombre": "QAT4",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/qat/qat4.png"
     },
     {
       "nombre": "QAT5",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/qat/qat5.png"
     },
     {
       "nombre": "QAT6",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/qat/qat6.png"
     },
     {
       "nombre": "QAT7",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/qat/qat7.png"
     },
     {
       "nombre": "QAT8",
@@ -125,43 +113,43 @@
     },
     {
       "nombre": "QAT10",
-      "imagen": "../figuritas/qat/qat10.jpeg"
+      "imagen": "../figuritas/qat/qat10.png"
     },
     {
       "nombre": "QAT11",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/qat/qat11.png"
     },
     {
       "nombre": "QAT12",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/qat/qat12.png"
     },
     {
       "nombre": "QAT13",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/qat/qat13.png"
     },
     {
       "nombre": "QAT14",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/qat/qat14.png"
     },
     {
       "nombre": "QAT15",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/qat/qat15.png"
     },
     {
       "nombre": "QAT16",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/qat/qat16.png"
     },
     {
       "nombre": "QAT17",
-      "imagen": "../figuritas/qat/qat17.jpg"
+      "imagen": "../figuritas/qat/qat17.png"
     },
     {
       "nombre": "QAT18",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/qat/qat18.png"
     },
     {
       "nombre": "QAT19",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/qat/qat19.png"
     },
     {
       "nombre": "ECU1",
@@ -169,27 +157,27 @@
     },
     {
       "nombre": "ECU2",
-      "imagen": "../figuritas/ecu/ecu2.jpeg"
+      "imagen": "../figuritas/ecu/ecu2.png"
     },
     {
       "nombre": "ECU3",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ecu/ecu3.png"
     },
     {
       "nombre": "ECU4",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ecu/ecu4.png"
     },
     {
       "nombre": "ECU5",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ecu/ecu5.png"
     },
     {
       "nombre": "ECU6",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ecu/ecu6.png"
     },
     {
       "nombre": "ECU7",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ecu/ecu7.png"
     },
     {
       "nombre": "ECU8",
@@ -201,23 +189,23 @@
     },
     {
       "nombre": "ECU10",
-      "imagen": "../figuritas/ecu/ecu10.jpg"
+      "imagen": "../figuritas/ecu/ecu10.png"
     },
     {
       "nombre": "ECU11",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ecu/ecu11.png"
     },
     {
       "nombre": "ECU12",
-      "imagen": "../figuritas/ecu/ecu12.jpeg"
+      "imagen": "../figuritas/ecu/ecu12.png"
     },
     {
       "nombre": "ECU13",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ecu/ecu13.png"
     },
     {
       "nombre": "ECU14",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ecu/ecu14.png"
     },
     {
       "nombre": "ECU15",
@@ -225,7 +213,7 @@
     },
     {
       "nombre": "ECU16",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ecu/ecu16.png"
     },
     {
       "nombre": "ECU17",
@@ -233,11 +221,11 @@
     },
     {
       "nombre": "ECU18",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ecu/ecu18.png"
     },
     {
       "nombre": "ECU19",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ecu/ecu19.png"
     },
     {
       "nombre": "SEN1",
@@ -245,91 +233,91 @@
     },
     {
       "nombre": "SEN2",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/sen/sen2.png"
     },
     {
       "nombre": "SEN3",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/sen/sen3.png"
     },
     {
       "nombre": "SEN4",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/sen/sen4.png"
     },
     {
       "nombre": "SEN5",
-      "imagen": "../figuritas/sen/sen5.jpeg"
+      "imagen": "../figuritas/sen/sen5.png"
     },
     {
       "nombre": "SEN6",
-      "imagen": "../figuritas/sen/sen6.jpeg"
+      "imagen": "../figuritas/sen/sen6.png"
     },
     {
       "nombre": "SEN7",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/sen/sen7.png"
     },
     {
       "nombre": "SEN8",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/sen/sen8.png"
     },
     {
       "nombre": "SEN9",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/sen/sen9.png"
     },
     {
       "nombre": "SEN10",
-      "imagen": "../figuritas/sen/sen10.jpeg"
+      "imagen": "../figuritas/sen/sen10.png"
     },
     {
       "nombre": "SEN11",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/sen/sen11.png"
     },
     {
       "nombre": "SEN12",
-      "imagen": "../figuritas/sen/sen12.jpeg"
+      "imagen": "../figuritas/sen/sen12.png"
     },
     {
       "nombre": "SEN13",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/sen/sen13.png"
     },
     {
       "nombre": "SEN14",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/sen/sen14.png"
     },
     {
       "nombre": "SEN15",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/sen/sen15.png"
     },
     {
       "nombre": "SEN16",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/sen/sen16.png"
     },
     {
       "nombre": "SEN17",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/sen/sen17.png"
     },
     {
       "nombre": "SEN18",
-      "imagen": "../figuritas/sen/sen18.jpg"
+      "imagen": "../figuritas/sen/sen18.png"
     },
     {
       "nombre": "SEN19",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/sen/sen19.png"
     },
     {
       "nombre": "NED1",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ned/ned1.png"
     },
     {
       "nombre": "NED2",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ned/ned2.png"
     },
     {
       "nombre": "NED3",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ned/ned3.png"
     },
     {
       "nombre": "NED4",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ned/ned4.png"
     },
     {
       "nombre": "NED5",
@@ -337,11 +325,11 @@
     },
     {
       "nombre": "NED6",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ned/ned6.png"
     },
     {
       "nombre": "NED7",
-      "imagen": "../figuritas/ned/ned7.jpeg"
+      "imagen": "../figuritas/ned/ned7.png"
     },
     {
       "nombre": "NED8",
@@ -349,15 +337,15 @@
     },
     {
       "nombre": "NED9",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ned/ned9.png"
     },
     {
       "nombre": "NED10",
-      "imagen": "../figuritas/ned/ned10.jpeg"
+      "imagen": "../figuritas/ned/ned10.png"
     },
     {
       "nombre": "NED11",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ned/ned11.png"
     },
     {
       "nombre": "NED12",
@@ -365,11 +353,11 @@
     },
     {
       "nombre": "NED13",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ned/ned13.png"
     },
     {
       "nombre": "NED14",
-      "imagen": "../figuritas/ned/ned14.jpeg"
+      "imagen": "../figuritas/ned/ned14.png"
     },
     {
       "nombre": "NED15",
@@ -377,19 +365,19 @@
     },
     {
       "nombre": "NED16",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ned/ned16.png"
     },
     {
       "nombre": "NED17",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ned/ned17.png"
     },
     {
       "nombre": "NED18",
-      "imagen": "../figuritas/ned/ned18.jpeg"
+      "imagen": "../figuritas/ned/ned18.png"
     },
     {
       "nombre": "NED19",
-      "imagen": "../figuritas/ned/ned19.jpeg"
+      "imagen": "../figuritas/ned/ned19.png"
     },
     {
       "nombre": "ENG1",
@@ -397,31 +385,31 @@
     },
     {
       "nombre": "ENG2",
-      "imagen": "../figuritas/eng/eng2.jpeg"
+      "imagen": "../figuritas/eng/eng2.png"
     },
     {
       "nombre": "ENG3",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/eng/eng3.png"
     },
     {
       "nombre": "ENG4",
-      "imagen": "../figuritas/eng/eng4.jpeg"
+      "imagen": "../figuritas/eng/eng4.png"
     },
     {
       "nombre": "ENG5",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/eng/eng5.png"
     },
     {
       "nombre": "ENG6",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/eng/eng6.png"
     },
     {
       "nombre": "ENG7",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/eng/eng7.png"
     },
     {
       "nombre": "ENG8",
-      "imagen": "../figuritas/eng/eng8.jpeg"
+      "imagen": "../figuritas/eng/eng8.png"
     },
     {
       "nombre": "ENG9",
@@ -429,43 +417,43 @@
     },
     {
       "nombre": "ENG10",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/eng/eng10.png"
     },
     {
       "nombre": "ENG11",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/eng/eng11.png"
     },
     {
       "nombre": "ENG12",
-      "imagen": "../figuritas/eng/eng12.jpeg"
+      "imagen": "../figuritas/eng/eng12.png"
     },
     {
       "nombre": "ENG13",
-      "imagen": "../figuritas/eng/eng13.jpeg"
+      "imagen": "../figuritas/eng/eng13.png"
     },
     {
       "nombre": "ENG14",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/eng/eng14.png"
     },
     {
       "nombre": "ENG15",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/eng/eng15.png"
     },
     {
       "nombre": "ENG16",
-      "imagen": "../figuritas/eng/eng16.jpg"
+      "imagen": "../figuritas/eng/eng16.png"
     },
     {
       "nombre": "ENG17",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/eng/eng17.png"
     },
     {
       "nombre": "ENG18",
-      "imagen": "../figuritas/eng/eng18.jpeg"
+      "imagen": "../figuritas/eng/eng18.png"
     },
     {
       "nombre": "ENG19",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/eng/eng19.png"
     },
     {
       "nombre": "IRN1",
@@ -473,27 +461,27 @@
     },
     {
       "nombre": "IRN2",
-      "imagen": "../figuritas/irn/irn2.jpeg"
+      "imagen": "../figuritas/irn/irn2.png"
     },
     {
       "nombre": "IRN3",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/irn/irn3.png"
     },
     {
       "nombre": "IRN4",
-      "imagen": "../figuritas/irn/irn4.jpeg"
+      "imagen": "../figuritas/irn/irn4.png"
     },
     {
       "nombre": "IRN5",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/irn/irn5.png"
     },
     {
       "nombre": "IRN6",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/irn/irn6.png"
     },
     {
       "nombre": "IRN7",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/irn/irn7.png"
     },
     {
       "nombre": "IRN8",
@@ -501,35 +489,35 @@
     },
     {
       "nombre": "IRN9",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/irn/irn9.png"
     },
     {
       "nombre": "IRN10",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/irn/irn10.png"
     },
     {
       "nombre": "IRN11",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/irn/irn11.png"
     },
     {
       "nombre": "IRN12",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/irn/irn12.png"
     },
     {
       "nombre": "IRN13",
-      "imagen": "../figuritas/irn/irn13.jpeg"
+      "imagen": "../figuritas/irn/irn13.png"
     },
     {
       "nombre": "IRN14",
-      "imagen": "../figuritas/irn/irn14.jpeg"
+      "imagen": "../figuritas/irn/irn14.png"
     },
     {
       "nombre": "IRN15",
-      "imagen": "../figuritas/irn/irn15.jpeg"
+      "imagen": "../figuritas/irn/irn15.png"
     },
     {
       "nombre": "IRN16",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/irn/irn16.png"
     },
     {
       "nombre": "IRN17",
@@ -537,7 +525,7 @@
     },
     {
       "nombre": "IRN18",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/irn/irn18.png"
     },
     {
       "nombre": "IRN19",
@@ -549,31 +537,31 @@
     },
     {
       "nombre": "USA2",
-      "imagen": "../figuritas/usa/usa2.jpg"
+      "imagen": "../figuritas/usa/usa2.png"
     },
     {
       "nombre": "USA3",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/usa/usa3.png"
     },
     {
       "nombre": "USA4",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/usa/usa4.png"
     },
     {
       "nombre": "USA5",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/usa/usa5.png"
     },
     {
       "nombre": "USA6",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/usa/usa6.png"
     },
     {
       "nombre": "USA7",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/usa/usa7.png"
     },
     {
       "nombre": "USA8",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/usa/usa8.png"
     },
     {
       "nombre": "USA9",
@@ -581,15 +569,15 @@
     },
     {
       "nombre": "USA10",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/usa/usa10.png"
     },
     {
       "nombre": "USA11",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/usa/usa11.png"
     },
     {
       "nombre": "USA12",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/usa/usa12.png"
     },
     {
       "nombre": "USA13",
@@ -597,19 +585,19 @@
     },
     {
       "nombre": "USA14",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/usa/usa14.png"
     },
     {
       "nombre": "USA15",
-      "imagen": "../figuritas/usa/usa15.jpeg"
+      "imagen": "../figuritas/usa/usa15.png"
     },
     {
       "nombre": "USA16",
-      "imagen": "../figuritas/usa/usa16.jpeg"
+      "imagen": "../figuritas/usa/usa16.png"
     },
     {
       "nombre": "USA17",
-      "imagen": "../figuritas/usa/usa17.jpg"
+      "imagen": "../figuritas/usa/usa17.png"
     },
     {
       "nombre": "USA18",
@@ -617,19 +605,19 @@
     },
     {
       "nombre": "USA19",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/usa/usa19.png"
     },
     {
       "nombre": "WAL1",
-      "imagen": "../figuritas/wal/wal1.jpeg"
+      "imagen": "../figuritas/wal/wal1.png"
     },
     {
       "nombre": "WAL2",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/wal/wal2.png"
     },
     {
       "nombre": "WAL3",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/wal/wal3.png"
     },
     {
       "nombre": "WAL4",
@@ -641,71 +629,71 @@
     },
     {
       "nombre": "WAL6",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/wal/wal6.png"
     },
     {
       "nombre": "WAL7",
-      "imagen": "../figuritas/wal/wal7.jpeg"
+      "imagen": "../figuritas/wal/wal7.png"
     },
     {
       "nombre": "WAL8",
-      "imagen": "../figuritas/wal/wal8.jpeg"
+      "imagen": "../figuritas/wal/wal8.png"
     },
     {
       "nombre": "WAL9",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/wal/wal9.png"
     },
     {
       "nombre": "WAL10",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/wal/wal10.png"
     },
     {
       "nombre": "WAL11",
-      "imagen": "../figuritas/wal/wal11.jpeg"
+      "imagen": "../figuritas/wal/wal11.png"
     },
     {
       "nombre": "WAL12",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/wal/wal12.png"
     },
     {
       "nombre": "WAL13",
-      "imagen": "../figuritas/wal/wal13.jpeg"
+      "imagen": "../figuritas/wal/wal13.png"
     },
     {
       "nombre": "WAL14",
-      "imagen": "../figuritas/wal/wal14.jpeg"
+      "imagen": "../figuritas/wal/wal14.png"
     },
     {
       "nombre": "WAL15",
-      "imagen": "../figuritas/wal/wal15.jpeg"
+      "imagen": "../figuritas/wal/wal15.png"
     },
     {
       "nombre": "WAL16",
-      "imagen": "../figuritas/wal/wal16.jpg"
+      "imagen": "../figuritas/wal/wal16.png"
     },
     {
       "nombre": "WAL17",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/wal/wal17.png"
     },
     {
       "nombre": "WAL18",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/wal/wal18.png"
     },
     {
       "nombre": "WAL19",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/wal/wal19.png"
     },
     {
       "nombre": "ARG1",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/arg/arg1.png"
     },
     {
       "nombre": "ARG2",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/arg/arg2.png"
     },
     {
       "nombre": "ARG3",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/arg/arg3.png"
     },
     {
       "nombre": "ARG4",
@@ -713,23 +701,23 @@
     },
     {
       "nombre": "ARG5",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/arg/arg5.png"
     },
     {
       "nombre": "ARG6",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/arg/arg6.png"
     },
     {
       "nombre": "ARG7",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/arg/arg7.png"
     },
     {
       "nombre": "ARG8",
-      "imagen": "../figuritas/arg/arg8.jpeg"
+      "imagen": "../figuritas/arg/arg8.png"
     },
     {
       "nombre": "ARG9",
-      "imagen": "../figuritas/arg/arg9.jpg"
+      "imagen": "../figuritas/arg/arg9.png"
     },
     {
       "nombre": "ARG10",
@@ -737,35 +725,35 @@
     },
     {
       "nombre": "ARG11",
-      "imagen": "../figuritas/arg/arg11.jpeg"
+      "imagen": "../figuritas/arg/arg11.png"
     },
     {
       "nombre": "ARG12",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/arg/arg12.png"
     },
     {
       "nombre": "ARG13",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/arg/arg13.png"
     },
     {
       "nombre": "ARG14",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/arg/arg14.png"
     },
     {
       "nombre": "ARG15",
-      "imagen": "../figuritas/arg/arg15.jpeg"
+      "imagen": "../figuritas/arg/arg15.png"
     },
     {
       "nombre": "ARG16",
-      "imagen": "../figuritas/arg/arg16.jpeg"
+      "imagen": "../figuritas/arg/arg16.png"
     },
     {
       "nombre": "ARG17",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/arg/arg17.png"
     },
     {
       "nombre": "ARG18",
-      "imagen": "../figuritas/arg/arg18.jpg"
+      "imagen": "../figuritas/arg/arg18.png"
     },
     {
       "nombre": "ARG19",
@@ -773,7 +761,7 @@
     },
     {
       "nombre": "KSA1",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ksa/ksa1.png"
     },
     {
       "nombre": "KSA2",
@@ -781,19 +769,19 @@
     },
     {
       "nombre": "KSA3",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ksa/ksa3.png"
     },
     {
       "nombre": "KSA4",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ksa/ksa4.png"
     },
     {
       "nombre": "KSA5",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ksa/ksa5.png"
     },
     {
       "nombre": "KSA6",
-      "imagen": "../figuritas/ksa/ksa6.jpeg"
+      "imagen": "../figuritas/ksa/ksa6.png"
     },
     {
       "nombre": "KSA7",
@@ -801,67 +789,67 @@
     },
     {
       "nombre": "KSA8",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ksa/ksa8.png"
     },
     {
       "nombre": "KSA9",
-      "imagen": "../figuritas/ksa/ksa9.jpeg"
+      "imagen": "../figuritas/ksa/ksa9.png"
     },
     {
       "nombre": "KSA10",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ksa/ksa10.png"
     },
     {
       "nombre": "KSA11",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ksa/ksa11.png"
     },
     {
       "nombre": "KSA12",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ksa/ksa12.png"
     },
     {
       "nombre": "KSA13",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ksa/ksa13.png"
     },
     {
       "nombre": "KSA14",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ksa/ksa14.png"
     },
     {
       "nombre": "KSA15",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ksa/ksa15.png"
     },
     {
       "nombre": "KSA16",
-      "imagen": "../figuritas/ksa/ksa16.jpeg"
+      "imagen": "../figuritas/ksa/ksa16.png"
     },
     {
       "nombre": "KSA17",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ksa/ksa17.png"
     },
     {
       "nombre": "KSA18",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ksa/ksa18.png"
     },
     {
       "nombre": "KSA19",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ksa/ksa19.png"
     },
     {
       "nombre": "MEX1",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/mex/mex1.png"
     },
     {
       "nombre": "MEX2",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/mex/mex2.png"
     },
     {
       "nombre": "MEX3",
-      "imagen": "../figuritas/mex/mex3.jpeg"
+      "imagen": "../figuritas/mex/mex3.png"
     },
     {
       "nombre": "MEX4",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/mex/mex4.png"
     },
     {
       "nombre": "MEX5",
@@ -869,19 +857,19 @@
     },
     {
       "nombre": "MEX6",
-      "imagen": "../figuritas/mex/mex6.jpeg"
+      "imagen": "../figuritas/mex/mex6.png"
     },
     {
       "nombre": "MEX7",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/mex/mex7.png"
     },
     {
       "nombre": "MEX8",
-      "imagen": "../figuritas/mex/mex8.jpeg"
+      "imagen": "../figuritas/mex/mex8.png"
     },
     {
       "nombre": "MEX9",
-      "imagen": "../figuritas/mex/mex9.jpeg"
+      "imagen": "../figuritas/mex/mex9.png"
     },
     {
       "nombre": "MEX10",
@@ -889,35 +877,35 @@
     },
     {
       "nombre": "MEX11",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/mex/mex11.png"
     },
     {
       "nombre": "MEX12",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/mex/mex12.png"
     },
     {
       "nombre": "MEX13",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/mex/mex13.png"
     },
     {
       "nombre": "MEX14",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/mex/mex14.png"
     },
     {
       "nombre": "MEX15",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/mex/mex15.png"
     },
     {
       "nombre": "MEX16",
-      "imagen": "../figuritas/mex/mex16.jpeg"
+      "imagen": "../figuritas/mex/mex16.png"
     },
     {
       "nombre": "MEX17",
-      "imagen": "../figuritas/mex/mex17.jpeg"
+      "imagen": "../figuritas/mex/mex17.png"
     },
     {
       "nombre": "MEX18",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/mex/mex18.png"
     },
     {
       "nombre": "MEX19",
@@ -929,19 +917,19 @@
     },
     {
       "nombre": "POL2",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/pol/pol2.png"
     },
     {
       "nombre": "POL3",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/pol/pol3.png"
     },
     {
       "nombre": "POL4",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/pol/pol4.png"
     },
     {
       "nombre": "POL5",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/pol/pol5.png"
     },
     {
       "nombre": "POL6",
@@ -953,11 +941,11 @@
     },
     {
       "nombre": "POL8",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/pol/pol8.png"
     },
     {
       "nombre": "POL9",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/pol/pol9.png"
     },
     {
       "nombre": "POL10",
@@ -965,7 +953,7 @@
     },
     {
       "nombre": "POL11",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/pol/pol11.png"
     },
     {
       "nombre": "POL12",
@@ -973,31 +961,31 @@
     },
     {
       "nombre": "POL13",
-      "imagen": "../figuritas/pol/pol13.jpeg"
+      "imagen": "../figuritas/pol/pol13.png"
     },
     {
       "nombre": "POL14",
-      "imagen": "../figuritas/pol/pol14.jpeg"
+      "imagen": "../figuritas/pol/pol14.png"
     },
     {
       "nombre": "POL15",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/pol/pol15.png"
     },
     {
       "nombre": "POL16",
-      "imagen": "../figuritas/pol/pol16.jpg"
+      "imagen": "../figuritas/pol/pol16.png"
     },
     {
       "nombre": "POL17",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/pol/pol17.png"
     },
     {
       "nombre": "POL18",
-      "imagen": "../figuritas/pol/pol18.jpeg"
+      "imagen": "../figuritas/pol/pol18.png"
     },
     {
       "nombre": "POL19",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/pol/pol19.png"
     },
     {
       "nombre": "FRA1",
@@ -1009,11 +997,11 @@
     },
     {
       "nombre": "FRA3",
-      "imagen": "../figuritas/fra/fra3.jpeg"
+      "imagen": "../figuritas/fra/fra3.png"
     },
     {
       "nombre": "FRA4",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/fra/fra4.png"
     },
     {
       "nombre": "FRA5",
@@ -1021,15 +1009,15 @@
     },
     {
       "nombre": "FRA6",
-      "imagen": "../figuritas/fra/fra6.jpeg"
+      "imagen": "../figuritas/fra/fra6.png"
     },
     {
       "nombre": "FRA7",
-      "imagen": "../figuritas/fra/fra7.jpeg"
+      "imagen": "../figuritas/fra/fra7.png"
     },
     {
       "nombre": "FRA8",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/fra/fra8.png"
     },
     {
       "nombre": "FRA9",
@@ -1037,23 +1025,23 @@
     },
     {
       "nombre": "FRA10",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/fra/fra10.png"
     },
     {
       "nombre": "FRA11",
-      "imagen": "../figuritas/fra/fra11.jpeg"
+      "imagen": "../figuritas/fra/fra11.png"
     },
     {
       "nombre": "FRA12",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/fra/fra12.png"
     },
     {
       "nombre": "FRA13",
-      "imagen": "../figuritas/fra/fra13.jpeg"
+      "imagen": "../figuritas/fra/fra13.png"
     },
     {
       "nombre": "FRA14",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/fra/fra14.png"
     },
     {
       "nombre": "FRA15",
@@ -1061,47 +1049,47 @@
     },
     {
       "nombre": "FRA16",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/fra/fra16.png"
     },
     {
       "nombre": "FRA17",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/fra/fra17.png"
     },
     {
       "nombre": "FRA18",
-      "imagen": "../figuritas/fra/fra18.jpg"
+      "imagen": "../figuritas/fra/fra18.png"
     },
     {
       "nombre": "FRA19",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/fra/fra19.png"
     },
     {
       "nombre": "AUS1",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/aus/aus1.png"
     },
     {
       "nombre": "AUS2",
-      "imagen": "../figuritas/aus/aus2.jpg"
+      "imagen": "../figuritas/aus/aus2.png"
     },
     {
       "nombre": "AUS3",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/aus/aus3.png"
     },
     {
       "nombre": "AUS4",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/aus/aus4.png"
     },
     {
       "nombre": "AUS5",
-      "imagen": "../figuritas/aus/aus5.jpeg"
+      "imagen": "../figuritas/aus/aus5.png"
     },
     {
       "nombre": "AUS6",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/aus/aus6.png"
     },
     {
       "nombre": "AUS7",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/aus/aus7.png"
     },
     {
       "nombre": "AUS8",
@@ -1109,7 +1097,7 @@
     },
     {
       "nombre": "AUS9",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/aus/aus9.png"
     },
     {
       "nombre": "AUS10",
@@ -1117,39 +1105,39 @@
     },
     {
       "nombre": "AUS11",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/aus/aus11.png"
     },
     {
       "nombre": "AUS12",
-      "imagen": "../figuritas/aus/aus12.jpeg"
+      "imagen": "../figuritas/aus/aus12.png"
     },
     {
       "nombre": "AUS13",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/aus/aus13.png"
     },
     {
       "nombre": "AUS14",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/aus/aus14.png"
     },
     {
       "nombre": "AUS15",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/aus/aus15.png"
     },
     {
       "nombre": "AUS16",
-      "imagen": "../figuritas/aus/aus16.jpeg"
+      "imagen": "../figuritas/aus/aus16.png"
     },
     {
       "nombre": "AUS17",
-      "imagen": "../figuritas/aus/aus17.jpeg"
+      "imagen": "../figuritas/aus/aus17.png"
     },
     {
       "nombre": "AUS18",
-      "imagen": "../figuritas/aus/aus18.jpeg"
+      "imagen": "../figuritas/aus/aus18.png"
     },
     {
       "nombre": "AUS19",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/aus/aus19.png"
     },
     {
       "nombre": "DEN1",
@@ -1161,31 +1149,31 @@
     },
     {
       "nombre": "DEN3",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/den/den3.png"
     },
     {
       "nombre": "DEN4",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/den/den4.png"
     },
     {
       "nombre": "DEN5",
-      "imagen": "../figuritas/den/den5.jpeg"
+      "imagen": "../figuritas/den/den5.png"
     },
     {
       "nombre": "DEN6",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/den/den6.png"
     },
     {
       "nombre": "DEN7",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/den/den7.png"
     },
     {
       "nombre": "DEN8",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/den/den8.png"
     },
     {
       "nombre": "DEN9",
-      "imagen": "../figuritas/den/den9.jpeg"
+      "imagen": "../figuritas/den/den9.png"
     },
     {
       "nombre": "DEN10",
@@ -1193,51 +1181,51 @@
     },
     {
       "nombre": "DEN11",
-      "imagen": "../figuritas/den/den11.jpg"
+      "imagen": "../figuritas/den/den11.png"
     },
     {
       "nombre": "DEN12",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/den/den12.png"
     },
     {
       "nombre": "DEN13",
-      "imagen": "../figuritas/den/den13.jpeg"
+      "imagen": "../figuritas/den/den13.png"
     },
     {
       "nombre": "DEN14",
-      "imagen": "../figuritas/den/den14.jpeg"
+      "imagen": "../figuritas/den/den14.png"
     },
     {
       "nombre": "DEN15",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/den/den15.png"
     },
     {
       "nombre": "DEN16",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/den/den16.png"
     },
     {
       "nombre": "DEN17",
-      "imagen": "../figuritas/den/den17.jpg"
+      "imagen": "../figuritas/den/den17.png"
     },
     {
       "nombre": "DEN18",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/den/den18.png"
     },
     {
       "nombre": "DEN19",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/den/den19.png"
     },
     {
       "nombre": "TUN1",
-      "imagen": "../figuritas/tun/tun1.jpeg"
+      "imagen": "../figuritas/tun/tun1.png"
     },
     {
       "nombre": "TUN2",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/tun/tun2.png"
     },
     {
       "nombre": "TUN3",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/tun/tun3.png"
     },
     {
       "nombre": "TUN4",
@@ -1245,31 +1233,31 @@
     },
     {
       "nombre": "TUN5",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/tun/tun5.png"
     },
     {
       "nombre": "TUN6",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/tun/tun6.png"
     },
     {
       "nombre": "TUN7",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/tun/tun7.png"
     },
     {
       "nombre": "TUN8",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/tun/tun8.png"
     },
     {
       "nombre": "TUN9",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/tun/tun9.png"
     },
     {
       "nombre": "TUN10",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/tun/tun10.png"
     },
     {
       "nombre": "TUN11",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/tun/tun11.png"
     },
     {
       "nombre": "TUN12",
@@ -1277,39 +1265,39 @@
     },
     {
       "nombre": "TUN13",
-      "imagen": "../figuritas/tun/tun13.jpeg"
+      "imagen": "../figuritas/tun/tun13.png"
     },
     {
       "nombre": "TUN14",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/tun/tun14.png"
     },
     {
       "nombre": "TUN15",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/tun/tun15.png"
     },
     {
       "nombre": "TUN16",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/tun/tun16.png"
     },
     {
       "nombre": "TUN17",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/tun/tun17.png"
     },
     {
       "nombre": "TUN18",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/tun/tun18.png"
     },
     {
       "nombre": "TUN19",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/tun/tun19.png"
     },
     {
       "nombre": "ESP1",
-      "imagen": "../figuritas/esp/esp1.png"
+      "imagen": "../figuritas/barasi.png"
     },
     {
       "nombre": "ESP2",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/esp/esp2.png"
     },
     {
       "nombre": "ESP3",
@@ -1321,15 +1309,15 @@
     },
     {
       "nombre": "ESP5",
-      "imagen": "../figuritas/esp/esp5.jpeg"
+      "imagen": "../figuritas/esp/esp5.png"
     },
     {
       "nombre": "ESP6",
-      "imagen": "../figuritas/esp/esp6.jpeg"
+      "imagen": "../figuritas/esp/esp6.png"
     },
     {
       "nombre": "ESP7",
-      "imagen": "../figuritas/esp/esp7.jpg"
+      "imagen": "../figuritas/esp/esp7.png"
     },
     {
       "nombre": "ESP8",
@@ -1345,15 +1333,15 @@
     },
     {
       "nombre": "ESP11",
-      "imagen": "../figuritas/esp/esp11.jpeg"
+      "imagen": "../figuritas/esp/esp11.png"
     },
     {
       "nombre": "ESP12",
-      "imagen": "../figuritas/esp/esp12.jpg"
+      "imagen": "../figuritas/esp/esp12.png"
     },
     {
       "nombre": "ESP13",
-      "imagen": "../figuritas/esp/esp13.jpeg"
+      "imagen": "../figuritas/esp/esp13.png"
     },
     {
       "nombre": "ESP14",
@@ -1369,11 +1357,11 @@
     },
     {
       "nombre": "ESP17",
-      "imagen": "../figuritas/esp/esp17.jpeg"
+      "imagen": "../figuritas/esp/esp17.png"
     },
     {
       "nombre": "ESP18",
-      "imagen": "../figuritas/esp/esp18.jpeg"
+      "imagen": "../figuritas/esp/esp18.png"
     },
     {
       "nombre": "ESP19",
@@ -1385,11 +1373,11 @@
     },
     {
       "nombre": "CRC2",
-      "imagen": "../figuritas/crc/crc2.jpeg"
+      "imagen": "../figuritas/crc/crc2.png"
     },
     {
       "nombre": "CRC3",
-      "imagen": "../figuritas/crc/crc3.jpeg"
+      "imagen": "../figuritas/crc/crc3.png"
     },
     {
       "nombre": "CRC4",
@@ -1401,7 +1389,7 @@
     },
     {
       "nombre": "CRC6",
-      "imagen": "../figuritas/crc/crc6.jpeg"
+      "imagen": "../figuritas/crc/crc6.png"
     },
     {
       "nombre": "CRC7",
@@ -1413,7 +1401,7 @@
     },
     {
       "nombre": "CRC9",
-      "imagen": "../figuritas/crc/crc9.jpeg"
+      "imagen": "../figuritas/crc/crc9.png"
     },
     {
       "nombre": "CRC10",
@@ -1421,7 +1409,7 @@
     },
     {
       "nombre": "CRC11",
-      "imagen": "../figuritas/crc/crc11.jpeg"
+      "imagen": "../figuritas/crc/crc11.png"
     },
     {
       "nombre": "CRC12",
@@ -1429,7 +1417,7 @@
     },
     {
       "nombre": "CRC13",
-      "imagen": "../figuritas/crc/crc13.jpeg"
+      "imagen": "../figuritas/crc/crc13.png"
     },
     {
       "nombre": "CRC14",
@@ -1445,7 +1433,7 @@
     },
     {
       "nombre": "CRC17",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/crc/crc17.png"
     },
     {
       "nombre": "CRC18",
@@ -1461,7 +1449,7 @@
     },
     {
       "nombre": "GER2",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ger/ger2.png"
     },
     {
       "nombre": "GER3",
@@ -1477,7 +1465,7 @@
     },
     {
       "nombre": "GER6",
-      "imagen": "../figuritas/ger/ger6.jpeg"
+      "imagen": "../figuritas/ger/ger6.png"
     },
     {
       "nombre": "GER7",
@@ -1485,7 +1473,7 @@
     },
     {
       "nombre": "GER8",
-      "imagen": "../figuritas/ger/ger8.jpeg"
+      "imagen": "../figuritas/ger/ger8.png"
     },
     {
       "nombre": "GER9",
@@ -1501,7 +1489,7 @@
     },
     {
       "nombre": "GER12",
-      "imagen": "../figuritas/ger/ger12.jpeg"
+      "imagen": "../figuritas/ger/ger12.png"
     },
     {
       "nombre": "GER13",
@@ -1513,11 +1501,11 @@
     },
     {
       "nombre": "GER15",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ger/ger15.png"
     },
     {
       "nombre": "GER16",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ger/ger16.png"
     },
     {
       "nombre": "GER17",
@@ -1529,15 +1517,15 @@
     },
     {
       "nombre": "GER19",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/ger/ger19.png"
     },
     {
       "nombre": "JPN1",
-      "imagen": "../figuritas/jpn/jpn1.jpeg"
+      "imagen": "../figuritas/jpn/jpn1.png"
     },
     {
       "nombre": "JPN2",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/jpn/jpn2.png"
     },
     {
       "nombre": "JPN3",
@@ -1565,7 +1553,7 @@
     },
     {
       "nombre": "JPN9",
-      "imagen": "../figuritas/jpn/jpn9.jpeg"
+      "imagen": "../figuritas/jpn/jpn9.png"
     },
     {
       "nombre": "JPN10",
@@ -1593,7 +1581,7 @@
     },
     {
       "nombre": "JPN16",
-      "imagen": "../figuritas/jpn/jpn16.jpeg"
+      "imagen": "../figuritas/jpn/jpn16.png"
     },
     {
       "nombre": "JPN17",
@@ -1605,7 +1593,7 @@
     },
     {
       "nombre": "JPN19",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/jpn/jpn19.png"
     },
     {
       "nombre": "BEL1",
@@ -1613,7 +1601,7 @@
     },
     {
       "nombre": "BEL2",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/bel/bel2.png"
     },
     {
       "nombre": "BEL3",
@@ -1641,11 +1629,11 @@
     },
     {
       "nombre": "BEL9",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/bel/bel9.png"
     },
     {
       "nombre": "BEL10",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/bel/bel10.png"
     },
     {
       "nombre": "BEL11",
@@ -1673,7 +1661,7 @@
     },
     {
       "nombre": "BEL17",
-      "imagen": "../figuritas/bel/bel17.jpg"
+      "imagen": "../figuritas/bel/bel17.png"
     },
     {
       "nombre": "BEL18",
@@ -1705,7 +1693,7 @@
     },
     {
       "nombre": "CAN6",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/can/can6.png"
     },
     {
       "nombre": "CAN7",
@@ -1721,11 +1709,11 @@
     },
     {
       "nombre": "CAN10",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/can/can10.png"
     },
     {
       "nombre": "CAN11",
-      "imagen": "../figuritas/can/can11.jpg"
+      "imagen": "../figuritas/can/can11.png"
     },
     {
       "nombre": "CAN12",
@@ -1733,7 +1721,7 @@
     },
     {
       "nombre": "CAN13",
-      "imagen": "../figuritas/can/can13.jpg"
+      "imagen": "../figuritas/can/can13.png"
     },
     {
       "nombre": "CAN14",
@@ -1749,7 +1737,7 @@
     },
     {
       "nombre": "CAN17",
-      "imagen": "../figuritas/can/can17.jpg"
+      "imagen": "../figuritas/can/can17.png"
     },
     {
       "nombre": "CAN18",
@@ -1757,11 +1745,11 @@
     },
     {
       "nombre": "CAN19",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/can/can19.png"
     },
     {
       "nombre": "MAR1",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/mar/mar1.png"
     },
     {
       "nombre": "MAR2",
@@ -1773,11 +1761,11 @@
     },
     {
       "nombre": "MAR4",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/mar/mar4.png"
     },
     {
       "nombre": "MAR5",
-      "imagen": "../figuritas/mar/mar5.jpg"
+      "imagen": "../figuritas/mar/mar5.png"
     },
     {
       "nombre": "MAR6",
@@ -1837,11 +1825,11 @@
     },
     {
       "nombre": "CRO1",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/cro/cro1.png"
     },
     {
       "nombre": "CRO2",
-      "imagen": "../figuritas/cro/cro2.jpg"
+      "imagen": "../figuritas/cro/cro2.png"
     },
     {
       "nombre": "CRO3",
@@ -1865,7 +1853,7 @@
     },
     {
       "nombre": "CRO8",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/cro/cro8.png"
     },
     {
       "nombre": "CRO9",
@@ -1881,7 +1869,7 @@
     },
     {
       "nombre": "CRO12",
-      "imagen": "../figuritas/cro/cro12.jpg"
+      "imagen": "../figuritas/cro/cro12.png"
     },
     {
       "nombre": "CRO13",
@@ -1889,7 +1877,7 @@
     },
     {
       "nombre": "CRO14",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/cro/cro14.png"
     },
     {
       "nombre": "CRO15",
@@ -1901,7 +1889,7 @@
     },
     {
       "nombre": "CRO17",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/cro/cro17.png"
     },
     {
       "nombre": "CRO18",
@@ -1913,7 +1901,7 @@
     },
     {
       "nombre": "BRA1",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/bra/bra1.png"
     },
     {
       "nombre": "BRA2",
@@ -1925,7 +1913,7 @@
     },
     {
       "nombre": "BRA4",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/bra/bra4.png"
     },
     {
       "nombre": "BRA5",
@@ -1937,7 +1925,7 @@
     },
     {
       "nombre": "BRA7",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/bra/bra7.png"
     },
     {
       "nombre": "BRA8",
@@ -1973,7 +1961,7 @@
     },
     {
       "nombre": "BRA16",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/bra/bra16.png"
     },
     {
       "nombre": "BRA17",
@@ -1985,7 +1973,7 @@
     },
     {
       "nombre": "BRA19",
-      "imagen": "../figuritas/bra/bra19.jpg"
+      "imagen": "../figuritas/bra/bra19.png"
     },
     {
       "nombre": "SRB1",
@@ -1993,7 +1981,7 @@
     },
     {
       "nombre": "SRB2",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/srb/srb2.png"
     },
     {
       "nombre": "SRB3",
@@ -2001,7 +1989,7 @@
     },
     {
       "nombre": "SRB4",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/srb/srb4.png"
     },
     {
       "nombre": "SRB5",
@@ -2009,7 +1997,7 @@
     },
     {
       "nombre": "SRB6",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/srb/srb6.png"
     },
     {
       "nombre": "SRB7",
@@ -2021,7 +2009,7 @@
     },
     {
       "nombre": "SRB9",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/srb/srb9.png"
     },
     {
       "nombre": "SRB10",
@@ -2033,11 +2021,11 @@
     },
     {
       "nombre": "SRB12",
-      "imagen": "../figuritas/srb/srb12.jpg"
+      "imagen": "../figuritas/srb/srb12.png"
     },
     {
       "nombre": "SRB13",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/srb/srb13.png"
     },
     {
       "nombre": "SRB14",
@@ -2069,7 +2057,7 @@
     },
     {
       "nombre": "SUI2",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/sui/sui2.png"
     },
     {
       "nombre": "SUI3",
@@ -2097,7 +2085,7 @@
     },
     {
       "nombre": "SUI9",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/sui/sui9.png"
     },
     {
       "nombre": "SUI10",
@@ -2105,7 +2093,7 @@
     },
     {
       "nombre": "SUI11",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/sui/sui11.png"
     },
     {
       "nombre": "SUI12",
@@ -2125,7 +2113,7 @@
     },
     {
       "nombre": "SUI16",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/sui/sui16.png"
     },
     {
       "nombre": "SUI17",
@@ -2153,7 +2141,7 @@
     },
     {
       "nombre": "CMR4",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/cmr/cmr4.png"
     },
     {
       "nombre": "CMR5",
@@ -2189,15 +2177,15 @@
     },
     {
       "nombre": "CMR13",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/cmr/cmr13.png"
     },
     {
       "nombre": "CMR14",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/cmr/cmr14.png"
     },
     {
       "nombre": "CMR15",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/cmr/cmr15.png"
     },
     {
       "nombre": "CMR16",
@@ -2205,11 +2193,11 @@
     },
     {
       "nombre": "CMR17",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/cmr/cmr17.png"
     },
     {
       "nombre": "CMR18",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/cmr/cmr18.png"
     },
     {
       "nombre": "CMR19",
@@ -2221,7 +2209,7 @@
     },
     {
       "nombre": "POR2",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/por/por2.png"
     },
     {
       "nombre": "POR3",
@@ -2229,7 +2217,7 @@
     },
     {
       "nombre": "POR4",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/por/por4.png"
     },
     {
       "nombre": "POR5",
@@ -2241,7 +2229,7 @@
     },
     {
       "nombre": "POR7",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/por/por7.png"
     },
     {
       "nombre": "POR8",
@@ -2249,7 +2237,7 @@
     },
     {
       "nombre": "POR9",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/por/por9.png"
     },
     {
       "nombre": "POR10",
@@ -2257,15 +2245,15 @@
     },
     {
       "nombre": "POR11",
-      "imagen": "../figuritas/por/por11.jpg"
+      "imagen": "../figuritas/por/por11.png"
     },
     {
       "nombre": "POR12",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/por/por12.png"
     },
     {
       "nombre": "POR13",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/por/por13.png"
     },
     {
       "nombre": "POR14",
@@ -2293,7 +2281,7 @@
     },
     {
       "nombre": "GHA1",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/gha/gha1.png"
     },
     {
       "nombre": "GHA2",
@@ -2309,7 +2297,7 @@
     },
     {
       "nombre": "GHA5",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/gha/gha5.png"
     },
     {
       "nombre": "GHA6",
@@ -2325,15 +2313,15 @@
     },
     {
       "nombre": "GHA9",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/gha/gha9.png"
     },
     {
       "nombre": "GHA10",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/gha/gha10.png"
     },
     {
       "nombre": "GHA11",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/gha/gha11.png"
     },
     {
       "nombre": "GHA12",
@@ -2341,7 +2329,7 @@
     },
     {
       "nombre": "GHA13",
-      "imagen": "../figuritas/gha/gha13.jpg"
+      "imagen": "../figuritas/gha/gha13.png"
     },
     {
       "nombre": "GHA14",
@@ -2369,11 +2357,11 @@
     },
     {
       "nombre": "URU1",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/uru/uru1.png"
     },
     {
       "nombre": "URU2",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/uru/uru2.png"
     },
     {
       "nombre": "URU3",
@@ -2381,7 +2369,7 @@
     },
     {
       "nombre": "URU4",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/uru/uru4.png"
     },
     {
       "nombre": "URU5",
@@ -2389,15 +2377,15 @@
     },
     {
       "nombre": "URU6",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/uru/uru6.png"
     },
     {
       "nombre": "URU7",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/uru/uru7.png"
     },
     {
       "nombre": "URU8",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/uru/uru8.png"
     },
     {
       "nombre": "URU9",
@@ -2405,15 +2393,15 @@
     },
     {
       "nombre": "URU10",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/uru/uru10.png"
     },
     {
       "nombre": "URU11",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/uru/uru11.png"
     },
     {
       "nombre": "URU12",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/uru/uru12.png"
     },
     {
       "nombre": "URU13",
@@ -2421,7 +2409,7 @@
     },
     {
       "nombre": "URU14",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/uru/uru14.png"
     },
     {
       "nombre": "URU15",
@@ -2429,7 +2417,7 @@
     },
     {
       "nombre": "URU16",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/uru/uru16.png"
     },
     {
       "nombre": "URU17",
@@ -2441,7 +2429,7 @@
     },
     {
       "nombre": "URU19",
-      "imagen": "../figuritas/uru/uru19.jpg"
+      "imagen": "../figuritas/uru/uru19.png"
     },
     {
       "nombre": "KOR1",
@@ -2449,7 +2437,7 @@
     },
     {
       "nombre": "KOR2",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/kor/kor2.png"
     },
     {
       "nombre": "KOR3",
@@ -2465,11 +2453,11 @@
     },
     {
       "nombre": "KOR6",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/kor/kor6.png"
     },
     {
       "nombre": "KOR7",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/kor/kor7.png"
     },
     {
       "nombre": "KOR8",
@@ -2477,7 +2465,7 @@
     },
     {
       "nombre": "KOR9",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/kor/kor9.png"
     },
     {
       "nombre": "KOR10",
@@ -2489,7 +2477,7 @@
     },
     {
       "nombre": "KOR12",
-      "imagen": "../figuritas/kor/kor12.jpg"
+      "imagen": "../figuritas/kor/kor12.png"
     },
     {
       "nombre": "KOR13",
@@ -2505,7 +2493,7 @@
     },
     {
       "nombre": "KOR16",
-      "imagen": "../figuritas/barasi.png"
+      "imagen": "../figuritas/kor/kor16.png"
     },
     {
       "nombre": "KOR17",
@@ -2513,7 +2501,7 @@
     },
     {
       "nombre": "KOR18",
-      "imagen": "../figuritas/kor/kor18.jpg"
+      "imagen": "../figuritas/kor/kor18.png"
     },
     {
       "nombre": "KOR19",
